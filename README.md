@@ -1,4 +1,4 @@
-I provided some examples in this repo, which almost represent everything in this work.
+I provided some examples in this repo, which almost represent everything in this work. Some of them might be not completely right so plz check based on ur understand.
 
 The code used in this work is essentially a copy of that from a previous study: *Chem. Sci.* (2023), 14 (14), 3913–3922. You can check it out here: https://github.com/Yangxinsix/painn-sli. And you will find his code more useful than the codes in this repo lol.
 
