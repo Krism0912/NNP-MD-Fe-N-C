@@ -1,0 +1,1010 @@
+2025-04-30 21:46:56,585 [INFO ]  Calculating No.0... Atoms.calc= SinglePointCalculator(energy=-509.6018981933594, forces=...)
+/public4/home/sc54073/miniconda3/envs/py39/lib/python3.9/site-packages/ase/calculators/vasp/vasp.py:1006: UserWarning: Magnetic moment data not written in OUTCAR (LORBIT<10), setting magnetic_moments to zero.
+Set LORBIT>=10 to get information on magnetic moments
+  warn('Magnetic moment data not written in OUTCAR (LORBIT<10),'
+2025-04-30 21:48:22,776 [INFO ]  Calculated energy: -509.65438044999996 eV
+2025-04-30 21:48:22,777 [INFO ]  Calculating No.1... Atoms.calc= SinglePointCalculator(energy=-509.03958892822266, forces=...)
+2025-04-30 21:49:39,956 [INFO ]  Calculated energy: -509.05772663 eV
+2025-04-30 21:49:39,957 [INFO ]  Calculating No.2... Atoms.calc= SinglePointCalculator(energy=-509.51316833496094, forces=...)
+2025-04-30 21:50:56,780 [INFO ]  Calculated energy: -509.53989971000004 eV
+2025-04-30 21:50:56,782 [INFO ]  Calculating No.3... Atoms.calc= SinglePointCalculator(energy=-509.5666809082031, forces=...)
+2025-04-30 21:52:11,030 [INFO ]  Calculated energy: -509.57196044 eV
+2025-04-30 21:52:11,032 [INFO ]  Calculating No.4... Atoms.calc= SinglePointCalculator(energy=-509.7588806152344, forces=...)
+2025-04-30 21:53:28,013 [INFO ]  Calculated energy: -509.78730127 eV
+2025-04-30 21:53:28,014 [INFO ]  Calculating No.5... Atoms.calc= SinglePointCalculator(energy=-508.7714385986328, forces=...)
+2025-04-30 21:54:40,544 [INFO ]  Calculated energy: -508.76708257999996 eV
+2025-04-30 21:54:40,545 [INFO ]  Calculating No.6... Atoms.calc= SinglePointCalculator(energy=-509.0581512451172, forces=...)
+2025-04-30 21:55:52,105 [INFO ]  Calculated energy: -509.07195618000003 eV
+2025-04-30 21:55:52,105 [INFO ]  Calculating No.7... Atoms.calc= SinglePointCalculator(energy=-509.3130569458008, forces=...)
+2025-04-30 21:57:18,754 [INFO ]  Calculated energy: -509.36189103000004 eV
+2025-04-30 21:57:18,755 [INFO ]  Calculating No.8... Atoms.calc= SinglePointCalculator(energy=-509.6013946533203, forces=...)
+2025-04-30 21:58:35,785 [INFO ]  Calculated energy: -509.67066378000004 eV
+2025-04-30 21:58:35,788 [INFO ]  Calculating No.9... Atoms.calc= SinglePointCalculator(energy=-509.9731140136719, forces=...)
+2025-04-30 21:59:50,666 [INFO ]  Calculated energy: -510.03282049999996 eV
+2025-04-30 21:59:50,667 [INFO ]  Calculating No.10... Atoms.calc= SinglePointCalculator(energy=-509.7424545288086, forces=...)
+2025-04-30 22:01:13,608 [INFO ]  Calculated energy: -509.74205442 eV
+2025-04-30 22:01:13,608 [INFO ]  Calculating No.11... Atoms.calc= SinglePointCalculator(energy=-510.25494384765625, forces=...)
+2025-04-30 22:02:30,586 [INFO ]  Calculated energy: -510.25206253 eV
+2025-04-30 22:02:30,587 [INFO ]  Calculating No.12... Atoms.calc= SinglePointCalculator(energy=-509.0070266723633, forces=...)
+2025-04-30 22:03:47,616 [INFO ]  Calculated energy: -509.02187615 eV
+2025-04-30 22:03:47,616 [INFO ]  Calculating No.13... Atoms.calc= SinglePointCalculator(energy=-508.4054489135742, forces=...)
+2025-04-30 22:05:03,076 [INFO ]  Calculated energy: -508.3953286 eV
+2025-04-30 22:05:03,077 [INFO ]  Calculating No.14... Atoms.calc= SinglePointCalculator(energy=-509.2753143310547, forces=...)
+2025-04-30 22:06:16,064 [INFO ]  Calculated energy: -509.29496033000004 eV
+2025-04-30 22:06:16,065 [INFO ]  Calculating No.15... Atoms.calc= SinglePointCalculator(energy=-509.36475372314453, forces=...)
+2025-04-30 22:07:28,667 [INFO ]  Calculated energy: -509.3334906 eV
+2025-04-30 22:07:28,668 [INFO ]  Calculating No.16... Atoms.calc= SinglePointCalculator(energy=-509.65818786621094, forces=...)
+2025-04-30 22:08:38,536 [INFO ]  Calculated energy: -509.69456284 eV
+2025-04-30 22:08:38,537 [INFO ]  Calculating No.17... Atoms.calc= SinglePointCalculator(energy=-509.4513168334961, forces=...)
+2025-04-30 22:09:55,865 [INFO ]  Calculated energy: -509.49840868999996 eV
+2025-04-30 22:09:55,865 [INFO ]  Calculating No.18... Atoms.calc= SinglePointCalculator(energy=-509.54600524902344, forces=...)
+2025-04-30 22:11:18,963 [INFO ]  Calculated energy: -509.51446835999997 eV
+2025-04-30 22:11:18,965 [INFO ]  Calculating No.19... Atoms.calc= SinglePointCalculator(energy=-509.6587829589844, forces=...)
+2025-04-30 22:12:33,938 [INFO ]  Calculated energy: -509.68841724 eV
+2025-04-30 22:12:33,938 [INFO ]  Calculating No.20... Atoms.calc= SinglePointCalculator(energy=-509.56690979003906, forces=...)
+2025-04-30 22:13:46,558 [INFO ]  Calculated energy: -509.5348048 eV
+2025-04-30 22:13:46,559 [INFO ]  Calculating No.21... Atoms.calc= SinglePointCalculator(energy=-509.26393127441406, forces=...)
+2025-04-30 22:15:08,085 [INFO ]  Calculated energy: -509.26509825 eV
+2025-04-30 22:15:08,086 [INFO ]  Calculating No.22... Atoms.calc= SinglePointCalculator(energy=-508.81044006347656, forces=...)
+2025-04-30 22:16:25,203 [INFO ]  Calculated energy: -508.83336112 eV
+2025-04-30 22:16:25,203 [INFO ]  Calculating No.23... Atoms.calc= SinglePointCalculator(energy=-509.1102828979492, forces=...)
+2025-04-30 22:17:39,737 [INFO ]  Calculated energy: -509.10593332999997 eV
+2025-04-30 22:17:39,738 [INFO ]  Calculating No.24... Atoms.calc= SinglePointCalculator(energy=-508.96986389160156, forces=...)
+2025-04-30 22:18:51,794 [INFO ]  Calculated energy: -508.91768973 eV
+2025-04-30 22:18:51,794 [INFO ]  Calculating No.25... Atoms.calc= SinglePointCalculator(energy=-509.0887680053711, forces=...)
+2025-04-30 22:20:06,749 [INFO ]  Calculated energy: -509.13549570000004 eV
+2025-04-30 22:20:06,750 [INFO ]  Calculating No.26... Atoms.calc= SinglePointCalculator(energy=-508.8839111328125, forces=...)
+2025-04-30 22:21:33,598 [INFO ]  Calculated energy: -508.90171428 eV
+2025-04-30 22:21:33,599 [INFO ]  Calculating No.27... Atoms.calc= SinglePointCalculator(energy=-509.15467071533203, forces=...)
+2025-04-30 22:22:49,979 [INFO ]  Calculated energy: -509.15329912999994 eV
+2025-04-30 22:22:49,980 [INFO ]  Calculating No.28... Atoms.calc= SinglePointCalculator(energy=-509.61124420166016, forces=...)
+2025-04-30 22:24:02,028 [INFO ]  Calculated energy: -509.65915147 eV
+2025-04-30 22:24:02,029 [INFO ]  Calculating No.29... Atoms.calc= SinglePointCalculator(energy=-509.84554290771484, forces=...)
+2025-04-30 22:25:19,002 [INFO ]  Calculated energy: -509.84545262 eV
+2025-04-30 22:25:19,003 [INFO ]  Calculating No.30... Atoms.calc= SinglePointCalculator(energy=-509.3800964355469, forces=...)
+srun: Step created for StepId=10178999.30
+2025-04-30 22:26:38,347 [INFO ]  Calculated energy: -509.42333624 eV
+2025-04-30 22:26:38,348 [INFO ]  Calculating No.31... Atoms.calc= SinglePointCalculator(energy=-509.5154724121094, forces=...)
+2025-04-30 22:27:54,348 [INFO ]  Calculated energy: -509.52786689 eV
+2025-04-30 22:27:54,349 [INFO ]  Calculating No.32... Atoms.calc= SinglePointCalculator(energy=-509.8458938598633, forces=...)
+2025-04-30 22:29:17,491 [INFO ]  Calculated energy: -509.86082834 eV
+2025-04-30 22:29:17,491 [INFO ]  Calculating No.33... Atoms.calc= SinglePointCalculator(energy=-509.4914093017578, forces=...)
+2025-04-30 22:30:34,867 [INFO ]  Calculated energy: -509.4723484 eV
+2025-04-30 22:30:34,867 [INFO ]  Calculating No.34... Atoms.calc= SinglePointCalculator(energy=-509.26505279541016, forces=...)
+2025-04-30 22:31:47,138 [INFO ]  Calculated energy: -509.3157637 eV
+2025-04-30 22:31:47,138 [INFO ]  Calculating No.35... Atoms.calc= SinglePointCalculator(energy=-509.09891510009766, forces=...)
+2025-04-30 22:33:07,047 [INFO ]  Calculated energy: -509.12716571 eV
+2025-04-30 22:33:07,047 [INFO ]  Calculating No.36... Atoms.calc= SinglePointCalculator(energy=-509.7792205810547, forces=...)
+2025-04-30 22:34:24,192 [INFO ]  Calculated energy: -509.84101831000004 eV
+2025-04-30 22:34:24,193 [INFO ]  Calculating No.37... Atoms.calc= SinglePointCalculator(energy=-509.6793670654297, forces=...)
+2025-04-30 22:35:36,661 [INFO ]  Calculated energy: -509.75804745000005 eV
+2025-04-30 22:35:36,662 [INFO ]  Calculating No.38... Atoms.calc= SinglePointCalculator(energy=-509.17698669433594, forces=...)
+2025-04-30 22:36:52,487 [INFO ]  Calculated energy: -509.20205709 eV
+2025-04-30 22:36:52,487 [INFO ]  Calculating No.39... Atoms.calc= SinglePointCalculator(energy=-509.70909881591797, forces=...)
+2025-04-30 22:38:09,878 [INFO ]  Calculated energy: -509.71590571999997 eV
+2025-04-30 22:38:09,878 [INFO ]  Calculating No.40... Atoms.calc= SinglePointCalculator(energy=-509.9080047607422, forces=...)
+2025-04-30 22:39:26,118 [INFO ]  Calculated energy: -509.96240195999997 eV
+2025-04-30 22:39:26,118 [INFO ]  Calculating No.41... Atoms.calc= SinglePointCalculator(energy=-510.0593566894531, forces=...)
+2025-04-30 22:40:38,651 [INFO ]  Calculated energy: -510.08018847 eV
+2025-04-30 22:40:38,652 [INFO ]  Calculating No.42... Atoms.calc= SinglePointCalculator(energy=-510.0827407836914, forces=...)
+2025-04-30 22:42:01,210 [INFO ]  Calculated energy: -510.12970666999996 eV
+2025-04-30 22:42:01,211 [INFO ]  Calculating No.43... Atoms.calc= SinglePointCalculator(energy=-509.73548889160156, forces=...)
+2025-04-30 22:43:16,501 [INFO ]  Calculated energy: -509.78070857 eV
+2025-04-30 22:43:16,502 [INFO ]  Calculating No.44... Atoms.calc= SinglePointCalculator(energy=-509.8675537109375, forces=...)
+2025-04-30 22:44:33,308 [INFO ]  Calculated energy: -509.90684619 eV
+2025-04-30 22:44:33,309 [INFO ]  Calculating No.45... Atoms.calc= SinglePointCalculator(energy=-509.6603546142578, forces=...)
+2025-04-30 22:45:49,871 [INFO ]  Calculated energy: -509.64639158 eV
+2025-04-30 22:45:49,872 [INFO ]  Calculating No.46... Atoms.calc= SinglePointCalculator(energy=-509.7208251953125, forces=...)
+2025-04-30 22:47:06,695 [INFO ]  Calculated energy: -509.75173878000004 eV
+2025-04-30 22:47:06,696 [INFO ]  Calculating No.47... Atoms.calc= SinglePointCalculator(energy=-509.7724380493164, forces=...)
+2025-04-30 22:48:21,357 [INFO ]  Calculated energy: -509.80896995 eV
+2025-04-30 22:48:21,358 [INFO ]  Calculating No.48... Atoms.calc= SinglePointCalculator(energy=-509.6583786010742, forces=...)
+2025-04-30 22:49:32,903 [INFO ]  Calculated energy: -509.6930591 eV
+2025-04-30 22:49:32,904 [INFO ]  Calculating No.49... Atoms.calc= SinglePointCalculator(energy=-510.1043014526367, forces=...)
+2025-04-30 22:50:50,587 [INFO ]  Calculated energy: -510.12962707 eV
+2025-04-30 22:50:50,588 [INFO ]  Calculating No.50... Atoms.calc= SinglePointCalculator(energy=-510.4325485229492, forces=...)
+2025-04-30 22:52:05,159 [INFO ]  Calculated energy: -510.44075768 eV
+2025-04-30 22:52:05,185 [INFO ]  Calculating No.51... Atoms.calc= SinglePointCalculator(energy=-509.5597229003906, forces=...)
+2025-04-30 22:53:18,073 [INFO ]  Calculated energy: -509.55682316 eV
+2025-04-30 22:53:18,074 [INFO ]  Calculating No.52... Atoms.calc= SinglePointCalculator(energy=-510.00953674316406, forces=...)
+2025-04-30 22:54:35,484 [INFO ]  Calculated energy: -510.04438590999996 eV
+2025-04-30 22:54:35,485 [INFO ]  Calculating No.53... Atoms.calc= SinglePointCalculator(energy=-509.84961700439453, forces=...)
+2025-04-30 22:55:48,345 [INFO ]  Calculated energy: -509.86696737 eV
+2025-04-30 22:55:48,346 [INFO ]  Calculating No.54... Atoms.calc= SinglePointCalculator(energy=-510.1692352294922, forces=...)
+2025-04-30 22:57:05,894 [INFO ]  Calculated energy: -510.17079486 eV
+2025-04-30 22:57:05,895 [INFO ]  Calculating No.55... Atoms.calc= SinglePointCalculator(energy=-509.7290267944336, forces=...)
+2025-04-30 22:58:22,551 [INFO ]  Calculated energy: -509.75707107999995 eV
+2025-04-30 22:58:22,552 [INFO ]  Calculating No.56... Atoms.calc= SinglePointCalculator(energy=-510.0799789428711, forces=...)
+2025-04-30 22:59:41,854 [INFO ]  Calculated energy: -510.12273834999996 eV
+2025-04-30 22:59:41,854 [INFO ]  Calculating No.57... Atoms.calc= SinglePointCalculator(energy=-509.8083038330078, forces=...)
+2025-04-30 23:01:03,127 [INFO ]  Calculated energy: -509.80953192000004 eV
+2025-04-30 23:01:03,128 [INFO ]  Calculating No.58... Atoms.calc= SinglePointCalculator(energy=-509.79954528808594, forces=...)
+2025-04-30 23:02:20,664 [INFO ]  Calculated energy: -509.84187551 eV
+2025-04-30 23:02:20,665 [INFO ]  Calculating No.59... Atoms.calc= SinglePointCalculator(energy=-509.3882369995117, forces=...)
+2025-04-30 23:03:37,749 [INFO ]  Calculated energy: -509.44758248 eV
+2025-04-30 23:03:37,750 [INFO ]  Calculating No.60... Atoms.calc= SinglePointCalculator(energy=-509.5603332519531, forces=...)
+2025-04-30 23:04:53,247 [INFO ]  Calculated energy: -509.56585617999997 eV
+2025-04-30 23:04:53,248 [INFO ]  Calculating No.61... Atoms.calc= SinglePointCalculator(energy=-509.8657531738281, forces=...)
+2025-04-30 23:06:07,492 [INFO ]  Calculated energy: -509.88219397 eV
+2025-04-30 23:06:07,493 [INFO ]  Calculating No.62... Atoms.calc= SinglePointCalculator(energy=-509.8922653198242, forces=...)
+2025-04-30 23:07:24,897 [INFO ]  Calculated energy: -509.90869937 eV
+2025-04-30 23:07:24,898 [INFO ]  Calculating No.63... Atoms.calc= SinglePointCalculator(energy=-510.3327865600586, forces=...)
+2025-04-30 23:08:37,821 [INFO ]  Calculated energy: -510.38953493 eV
+2025-04-30 23:08:37,822 [INFO ]  Calculating No.64... Atoms.calc= SinglePointCalculator(energy=-510.636474609375, forces=...)
+2025-04-30 23:09:54,725 [INFO ]  Calculated energy: -510.66270918000004 eV
+2025-04-30 23:09:54,726 [INFO ]  Calculating No.65... Atoms.calc= SinglePointCalculator(energy=-510.0616989135742, forces=...)
+2025-04-30 23:11:11,421 [INFO ]  Calculated energy: -510.06820387 eV
+2025-04-30 23:11:11,421 [INFO ]  Calculating No.66... Atoms.calc= SinglePointCalculator(energy=-509.33106231689453, forces=...)
+2025-04-30 23:12:24,449 [INFO ]  Calculated energy: -509.37167191 eV
+2025-04-30 23:12:24,450 [INFO ]  Calculating No.67... Atoms.calc= SinglePointCalculator(energy=-509.57527923583984, forces=...)
+2025-04-30 23:13:48,257 [INFO ]  Calculated energy: -509.61875474 eV
+2025-04-30 23:13:48,258 [INFO ]  Calculating No.68... Atoms.calc= SinglePointCalculator(energy=-508.9744644165039, forces=...)
+2025-04-30 23:15:09,559 [INFO ]  Calculated energy: -509.00264869999995 eV
+2025-04-30 23:15:09,560 [INFO ]  Calculating No.69... Atoms.calc= SinglePointCalculator(energy=-509.3342056274414, forces=...)
+2025-04-30 23:16:24,858 [INFO ]  Calculated energy: -509.40534696 eV
+2025-04-30 23:16:24,859 [INFO ]  Calculating No.70... Atoms.calc= SinglePointCalculator(energy=-508.1041564941406, forces=...)
+2025-04-30 23:17:36,826 [INFO ]  Calculated energy: -508.10793526 eV
+2025-04-30 23:17:36,827 [INFO ]  Calculating No.71... Atoms.calc= SinglePointCalculator(energy=-508.9724426269531, forces=...)
+2025-04-30 23:18:50,903 [INFO ]  Calculated energy: -509.05603823999996 eV
+2025-04-30 23:18:50,903 [INFO ]  Calculating No.72... Atoms.calc= SinglePointCalculator(energy=-509.19557189941406, forces=...)
+2025-04-30 23:20:03,611 [INFO ]  Calculated energy: -509.19383891 eV
+2025-04-30 23:20:03,612 [INFO ]  Calculating No.73... Atoms.calc= SinglePointCalculator(energy=-509.3696823120117, forces=...)
+2025-04-30 23:21:19,505 [INFO ]  Calculated energy: -509.34728499000005 eV
+2025-04-30 23:21:19,505 [INFO ]  Calculating No.74... Atoms.calc= SinglePointCalculator(energy=-509.11720275878906, forces=...)
+2025-04-30 23:22:32,132 [INFO ]  Calculated energy: -509.11787284 eV
+2025-04-30 23:22:32,133 [INFO ]  Calculating No.75... Atoms.calc= SinglePointCalculator(energy=-509.51944732666016, forces=...)
+2025-04-30 23:23:49,536 [INFO ]  Calculated energy: -509.6206836 eV
+2025-04-30 23:23:49,536 [INFO ]  Calculating No.76... Atoms.calc= SinglePointCalculator(energy=-509.26285552978516, forces=...)
+2025-04-30 23:25:02,421 [INFO ]  Calculated energy: -509.29634834 eV
+2025-04-30 23:25:02,421 [INFO ]  Calculating No.77... Atoms.calc= SinglePointCalculator(energy=-508.94642639160156, forces=...)
+2025-04-30 23:26:28,852 [INFO ]  Calculated energy: -508.93081846999996 eV
+2025-04-30 23:26:28,853 [INFO ]  Calculating No.78... Atoms.calc= SinglePointCalculator(energy=-509.1753616333008, forces=...)
+2025-04-30 23:27:44,803 [INFO ]  Calculated energy: -509.20276938999996 eV
+2025-04-30 23:27:44,803 [INFO ]  Calculating No.79... Atoms.calc= SinglePointCalculator(energy=-508.76879119873047, forces=...)
+2025-04-30 23:29:13,398 [INFO ]  Calculated energy: -508.76945938999995 eV
+2025-04-30 23:29:13,398 [INFO ]  Calculating No.80... Atoms.calc= SinglePointCalculator(energy=-510.00059509277344, forces=...)
+2025-04-30 23:30:28,674 [INFO ]  Calculated energy: -510.08554455999996 eV
+2025-04-30 23:30:28,674 [INFO ]  Calculating No.81... Atoms.calc= SinglePointCalculator(energy=-509.5652313232422, forces=...)
+2025-04-30 23:31:43,279 [INFO ]  Calculated energy: -509.57973656 eV
+2025-04-30 23:31:43,279 [INFO ]  Calculating No.82... Atoms.calc= SinglePointCalculator(energy=-509.5377960205078, forces=...)
+2025-04-30 23:33:00,285 [INFO ]  Calculated energy: -509.60122476 eV
+2025-04-30 23:33:00,286 [INFO ]  Calculating No.83... Atoms.calc= SinglePointCalculator(energy=-509.5397186279297, forces=...)
+2025-04-30 23:34:17,157 [INFO ]  Calculated energy: -509.59170038 eV
+2025-04-30 23:34:17,157 [INFO ]  Calculating No.84... Atoms.calc= SinglePointCalculator(energy=-509.5535583496094, forces=...)
+2025-04-30 23:35:31,643 [INFO ]  Calculated energy: -509.60173527 eV
+2025-04-30 23:35:31,644 [INFO ]  Calculating No.85... Atoms.calc= SinglePointCalculator(energy=-509.51390838623047, forces=...)
+2025-04-30 23:36:43,834 [INFO ]  Calculated energy: -509.56281207 eV
+2025-04-30 23:36:43,835 [INFO ]  Calculating No.86... Atoms.calc= SinglePointCalculator(energy=-509.6448059082031, forces=...)
+2025-04-30 23:37:58,864 [INFO ]  Calculated energy: -509.69970455 eV
+2025-04-30 23:37:58,865 [INFO ]  Calculating No.87... Atoms.calc= SinglePointCalculator(energy=-509.16221618652344, forces=...)
+2025-04-30 23:39:18,191 [INFO ]  Calculated energy: -509.19461067000003 eV
+2025-04-30 23:39:18,192 [INFO ]  Calculating No.88... Atoms.calc= SinglePointCalculator(energy=-509.4984359741211, forces=...)
+2025-04-30 23:40:30,960 [INFO ]  Calculated energy: -509.44807149 eV
+2025-04-30 23:40:30,960 [INFO ]  Calculating No.89... Atoms.calc= SinglePointCalculator(energy=-509.5104522705078, forces=...)
+2025-04-30 23:41:45,723 [INFO ]  Calculated energy: -509.52879882999997 eV
+2025-04-30 23:41:45,724 [INFO ]  Calculating No.90... Atoms.calc= SinglePointCalculator(energy=-509.4713592529297, forces=...)
+2025-04-30 23:43:01,367 [INFO ]  Calculated energy: -509.50263368000003 eV
+2025-04-30 23:43:01,368 [INFO ]  Calculating No.91... Atoms.calc= SinglePointCalculator(energy=-509.69725799560547, forces=...)
+2025-04-30 23:44:27,187 [INFO ]  Calculated energy: -509.68414290000004 eV
+2025-04-30 23:44:27,187 [INFO ]  Calculating No.92... Atoms.calc= SinglePointCalculator(energy=-510.01001739501953, forces=...)
+2025-04-30 23:45:55,169 [INFO ]  Calculated energy: -510.03194557 eV
+2025-04-30 23:45:55,169 [INFO ]  Calculating No.93... Atoms.calc= SinglePointCalculator(energy=-509.5475311279297, forces=...)
+2025-04-30 23:47:11,701 [INFO ]  Calculated energy: -509.56053535 eV
+2025-04-30 23:47:11,702 [INFO ]  Calculating No.94... Atoms.calc= SinglePointCalculator(energy=-510.0451431274414, forces=...)
+2025-04-30 23:48:23,843 [INFO ]  Calculated energy: -510.06851864000004 eV
+2025-04-30 23:48:23,843 [INFO ]  Calculating No.95... Atoms.calc= SinglePointCalculator(energy=-509.7556915283203, forces=...)
+2025-04-30 23:49:36,344 [INFO ]  Calculated energy: -509.78620246 eV
+2025-04-30 23:49:36,345 [INFO ]  Calculating No.96... Atoms.calc= SinglePointCalculator(energy=-509.8654479980469, forces=...)
+2025-04-30 23:50:51,242 [INFO ]  Calculated energy: -509.87910320000003 eV
+2025-04-30 23:50:51,242 [INFO ]  Calculating No.97... Atoms.calc= SinglePointCalculator(energy=-509.462158203125, forces=...)
+2025-04-30 23:52:04,730 [INFO ]  Calculated energy: -509.44591469000005 eV
+2025-04-30 23:52:04,731 [INFO ]  Calculating No.98... Atoms.calc= SinglePointCalculator(energy=-509.62247467041016, forces=...)
+2025-04-30 23:53:22,111 [INFO ]  Calculated energy: -509.67790908 eV
+2025-04-30 23:53:22,111 [INFO ]  Calculating No.99... Atoms.calc= SinglePointCalculator(energy=-509.98401641845703, forces=...)
+2025-04-30 23:54:39,688 [INFO ]  Calculated energy: -510.00579869999996 eV
+2025-04-30 23:54:39,689 [INFO ]  Calculating No.100... Atoms.calc= SinglePointCalculator(energy=-508.76956939697266, forces=...)
+2025-04-30 23:55:54,095 [INFO ]  Calculated energy: -508.8022124 eV
+2025-04-30 23:55:54,096 [INFO ]  Calculating No.101... Atoms.calc= SinglePointCalculator(energy=-509.09336853027344, forces=...)
+2025-04-30 23:57:06,111 [INFO ]  Calculated energy: -509.1035456 eV
+2025-04-30 23:57:06,112 [INFO ]  Calculating No.102... Atoms.calc= SinglePointCalculator(energy=-509.7499465942383, forces=...)
+2025-04-30 23:58:21,590 [INFO ]  Calculated energy: -509.75341861000004 eV
+2025-04-30 23:58:21,653 [INFO ]  Calculating No.103... Atoms.calc= SinglePointCalculator(energy=-509.65172576904297, forces=...)
+2025-04-30 23:59:36,540 [INFO ]  Calculated energy: -509.68021059999995 eV
+2025-04-30 23:59:36,541 [INFO ]  Calculating No.104... Atoms.calc= SinglePointCalculator(energy=-509.1273956298828, forces=...)
+2025-05-01 00:00:58,054 [INFO ]  Calculated energy: -509.08548468000004 eV
+2025-05-01 00:00:58,055 [INFO ]  Calculating No.105... Atoms.calc= SinglePointCalculator(energy=-510.06640625, forces=...)
+2025-05-01 00:02:15,557 [INFO ]  Calculated energy: -510.11153904 eV
+2025-05-01 00:02:15,558 [INFO ]  Calculating No.106... Atoms.calc= SinglePointCalculator(energy=-509.66744232177734, forces=...)
+2025-05-01 00:03:32,525 [INFO ]  Calculated energy: -509.74450390000004 eV
+2025-05-01 00:03:32,526 [INFO ]  Calculating No.107... Atoms.calc= SinglePointCalculator(energy=-509.66088104248047, forces=...)
+2025-05-01 00:04:48,698 [INFO ]  Calculated energy: -509.68719483 eV
+2025-05-01 00:04:48,700 [INFO ]  Calculating No.108... Atoms.calc= SinglePointCalculator(energy=-509.9232864379883, forces=...)
+2025-05-01 00:06:07,499 [INFO ]  Calculated energy: -509.96138529 eV
+2025-05-01 00:06:07,500 [INFO ]  Calculating No.109... Atoms.calc= SinglePointCalculator(energy=-509.83402252197266, forces=...)
+2025-05-01 00:07:23,445 [INFO ]  Calculated energy: -509.91619159 eV
+2025-05-01 00:07:23,446 [INFO ]  Calculating No.110... Atoms.calc= SinglePointCalculator(energy=-510.0193176269531, forces=...)
+2025-05-01 00:08:40,070 [INFO ]  Calculated energy: -510.03801424 eV
+2025-05-01 00:08:40,071 [INFO ]  Calculating No.111... Atoms.calc= SinglePointCalculator(energy=-510.15645599365234, forces=...)
+2025-05-01 00:09:52,684 [INFO ]  Calculated energy: -510.19273281000005 eV
+2025-05-01 00:09:52,685 [INFO ]  Calculating No.112... Atoms.calc= SinglePointCalculator(energy=-509.9632263183594, forces=...)
+2025-05-01 00:11:05,697 [INFO ]  Calculated energy: -510.02299615 eV
+2025-05-01 00:11:05,698 [INFO ]  Calculating No.113... Atoms.calc= SinglePointCalculator(energy=-510.24193572998047, forces=...)
+2025-05-01 00:12:29,123 [INFO ]  Calculated energy: -510.25451965 eV
+2025-05-01 00:12:29,123 [INFO ]  Calculating No.114... Atoms.calc= SinglePointCalculator(energy=-509.4401092529297, forces=...)
+2025-05-01 00:13:45,655 [INFO ]  Calculated energy: -509.50331747 eV
+2025-05-01 00:13:45,656 [INFO ]  Calculating No.115... Atoms.calc= SinglePointCalculator(energy=-509.7684097290039, forces=...)
+2025-05-01 00:14:57,624 [INFO ]  Calculated energy: -509.7939449 eV
+2025-05-01 00:14:57,624 [INFO ]  Calculating No.116... Atoms.calc= SinglePointCalculator(energy=-510.01358795166016, forces=...)
+2025-05-01 00:16:17,415 [INFO ]  Calculated energy: -510.04440662999997 eV
+2025-05-01 00:16:17,416 [INFO ]  Calculating No.117... Atoms.calc= SinglePointCalculator(energy=-510.00418853759766, forces=...)
+2025-05-01 00:17:29,929 [INFO ]  Calculated energy: -510.04835114 eV
+2025-05-01 00:17:29,930 [INFO ]  Calculating No.118... Atoms.calc= SinglePointCalculator(energy=-509.73865509033203, forces=...)
+2025-05-01 00:18:50,201 [INFO ]  Calculated energy: -509.78534036 eV
+2025-05-01 00:18:50,201 [INFO ]  Calculating No.119... Atoms.calc= SinglePointCalculator(energy=-510.2660369873047, forces=...)
+2025-05-01 00:20:04,236 [INFO ]  Calculated energy: -510.28904427000003 eV
+2025-05-01 00:20:04,237 [INFO ]  Calculating No.120... Atoms.calc= SinglePointCalculator(energy=-510.1539001464844, forces=...)
+2025-05-01 00:21:21,048 [INFO ]  Calculated energy: -510.18333854 eV
+2025-05-01 00:21:21,049 [INFO ]  Calculating No.121... Atoms.calc= SinglePointCalculator(energy=-509.9960174560547, forces=...)
+2025-05-01 00:22:33,887 [INFO ]  Calculated energy: -510.0323244 eV
+2025-05-01 00:22:33,888 [INFO ]  Calculating No.122... Atoms.calc= SinglePointCalculator(energy=-510.162109375, forces=...)
+2025-05-01 00:23:47,116 [INFO ]  Calculated energy: -510.21365984999994 eV
+2025-05-01 00:23:47,117 [INFO ]  Calculating No.123... Atoms.calc= SinglePointCalculator(energy=-509.54891204833984, forces=...)
+2025-05-01 00:24:59,739 [INFO ]  Calculated energy: -509.58453036000003 eV
+2025-05-01 00:24:59,739 [INFO ]  Calculating No.124... Atoms.calc= SinglePointCalculator(energy=-509.7020492553711, forces=...)
+2025-05-01 00:26:16,077 [INFO ]  Calculated energy: -509.70913795999996 eV
+2025-05-01 00:26:16,078 [INFO ]  Calculating No.125... Atoms.calc= SinglePointCalculator(energy=-509.3932647705078, forces=...)
+2025-05-01 00:27:32,880 [INFO ]  Calculated energy: -509.41512851 eV
+2025-05-01 00:27:32,881 [INFO ]  Calculating No.126... Atoms.calc= SinglePointCalculator(energy=-509.5858917236328, forces=...)
+2025-05-01 00:28:48,259 [INFO ]  Calculated energy: -509.61131789 eV
+2025-05-01 00:28:48,260 [INFO ]  Calculating No.127... Atoms.calc= SinglePointCalculator(energy=-509.8396224975586, forces=...)
+2025-05-01 00:30:04,976 [INFO ]  Calculated energy: -509.89427389 eV
+2025-05-01 00:30:04,976 [INFO ]  Calculating No.128... Atoms.calc= SinglePointCalculator(energy=-509.18567657470703, forces=...)
+2025-05-01 00:31:22,319 [INFO ]  Calculated energy: -509.24557582000006 eV
+2025-05-01 00:31:22,320 [INFO ]  Calculating No.129... Atoms.calc= SinglePointCalculator(energy=-509.97962951660156, forces=...)
+2025-05-01 00:32:38,539 [INFO ]  Calculated energy: -510.00857701999996 eV
+2025-05-01 00:32:38,540 [INFO ]  Calculating No.130... Atoms.calc= SinglePointCalculator(energy=-510.0599136352539, forces=...)
+2025-05-01 00:33:50,614 [INFO ]  Calculated energy: -510.09483061 eV
+2025-05-01 00:33:50,615 [INFO ]  Calculating No.131... Atoms.calc= SinglePointCalculator(energy=-509.6690216064453, forces=...)
+2025-05-01 00:35:10,513 [INFO ]  Calculated energy: -509.64820917 eV
+2025-05-01 00:35:10,514 [INFO ]  Calculating No.132... Atoms.calc= SinglePointCalculator(energy=-510.0401611328125, forces=...)
+2025-05-01 00:36:27,760 [INFO ]  Calculated energy: -510.06506704 eV
+2025-05-01 00:36:27,760 [INFO ]  Calculating No.133... Atoms.calc= SinglePointCalculator(energy=-510.1347427368164, forces=...)
+2025-05-01 00:37:53,998 [INFO ]  Calculated energy: -510.16691211 eV
+2025-05-01 00:37:53,999 [INFO ]  Calculating No.134... Atoms.calc= SinglePointCalculator(energy=-510.3990478515625, forces=...)
+2025-05-01 00:39:07,886 [INFO ]  Calculated energy: -510.41668250999993 eV
+2025-05-01 00:39:07,887 [INFO ]  Calculating No.135... Atoms.calc= SinglePointCalculator(energy=-509.85203552246094, forces=...)
+2025-05-01 00:40:26,638 [INFO ]  Calculated energy: -509.88892892 eV
+2025-05-01 00:40:26,639 [INFO ]  Calculating No.136... Atoms.calc= SinglePointCalculator(energy=-509.53670501708984, forces=...)
+2025-05-01 00:41:44,330 [INFO ]  Calculated energy: -509.51479842 eV
+2025-05-01 00:41:44,330 [INFO ]  Calculating No.137... Atoms.calc= SinglePointCalculator(energy=-510.0185089111328, forces=...)
+2025-05-01 00:43:00,954 [INFO ]  Calculated energy: -510.05230899000003 eV
+2025-05-01 00:43:00,955 [INFO ]  Calculating No.138... Atoms.calc= SinglePointCalculator(energy=-510.6960754394531, forces=...)
+2025-05-01 00:44:13,475 [INFO ]  Calculated energy: -510.69258564999996 eV
+2025-05-01 00:44:13,475 [INFO ]  Calculating No.139... Atoms.calc= SinglePointCalculator(energy=-510.50391387939453, forces=...)
+2025-05-01 00:45:29,451 [INFO ]  Calculated energy: -510.55478949 eV
+2025-05-01 00:45:29,452 [INFO ]  Calculating No.140... Atoms.calc= SinglePointCalculator(energy=-509.98571014404297, forces=...)
+2025-05-01 00:46:42,438 [INFO ]  Calculated energy: -510.01245477 eV
+2025-05-01 00:46:42,438 [INFO ]  Calculating No.141... Atoms.calc= SinglePointCalculator(energy=-509.6390914916992, forces=...)
+2025-05-01 00:47:54,725 [INFO ]  Calculated energy: -509.67022518 eV
+2025-05-01 00:47:54,726 [INFO ]  Calculating No.142... Atoms.calc= SinglePointCalculator(energy=-510.0425567626953, forces=...)
+2025-05-01 00:49:09,909 [INFO ]  Calculated energy: -510.04876289999993 eV
+2025-05-01 00:49:09,910 [INFO ]  Calculating No.143... Atoms.calc= SinglePointCalculator(energy=-509.986083984375, forces=...)
+2025-05-01 00:50:26,206 [INFO ]  Calculated energy: -510.06376622 eV
+2025-05-01 00:50:26,207 [INFO ]  Calculating No.144... Atoms.calc= SinglePointCalculator(energy=-509.84168243408203, forces=...)
+2025-05-01 00:51:38,873 [INFO ]  Calculated energy: -509.9083037 eV
+2025-05-01 00:51:38,874 [INFO ]  Calculating No.145... Atoms.calc= SinglePointCalculator(energy=-509.62857818603516, forces=...)
+2025-05-01 00:52:55,125 [INFO ]  Calculated energy: -509.66395437 eV
+2025-05-01 00:52:55,125 [INFO ]  Calculating No.146... Atoms.calc= SinglePointCalculator(energy=-509.53147888183594, forces=...)
+2025-05-01 00:54:10,612 [INFO ]  Calculated energy: -509.59237304 eV
+2025-05-01 00:54:10,612 [INFO ]  Calculating No.147... Atoms.calc= SinglePointCalculator(energy=-510.2350616455078, forces=...)
+2025-05-01 00:55:25,825 [INFO ]  Calculated energy: -510.25339628 eV
+2025-05-01 00:55:25,825 [INFO ]  Calculating No.148... Atoms.calc= SinglePointCalculator(energy=-509.7827911376953, forces=...)
+2025-05-01 00:56:42,076 [INFO ]  Calculated energy: -509.79146698 eV
+2025-05-01 00:56:42,076 [INFO ]  Calculating No.149... Atoms.calc= SinglePointCalculator(energy=-509.91138458251953, forces=...)
+2025-05-01 00:58:07,644 [INFO ]  Calculated energy: -509.96402695 eV
+2025-05-01 00:58:07,645 [INFO ]  Calculating No.150... Atoms.calc= SinglePointCalculator(energy=-510.3920135498047, forces=...)
+2025-05-01 00:59:35,801 [INFO ]  Calculated energy: -510.43574848000003 eV
+2025-05-01 00:59:35,801 [INFO ]  Calculating No.151... Atoms.calc= SinglePointCalculator(energy=-510.1443862915039, forces=...)
+2025-05-01 01:01:00,298 [INFO ]  Calculated energy: -510.17890522 eV
+2025-05-01 01:01:00,299 [INFO ]  Calculating No.152... Atoms.calc= SinglePointCalculator(energy=-510.2921447753906, forces=...)
+2025-05-01 01:02:17,285 [INFO ]  Calculated energy: -510.33359298000005 eV
+2025-05-01 01:02:17,286 [INFO ]  Calculating No.153... Atoms.calc= SinglePointCalculator(energy=-509.88314056396484, forces=...)
+2025-05-01 01:03:50,926 [INFO ]  Calculated energy: -509.94472187 eV
+2025-05-01 01:03:50,966 [INFO ]  Calculating No.154... Atoms.calc= SinglePointCalculator(energy=-509.83689880371094, forces=...)
+2025-05-01 01:05:06,896 [INFO ]  Calculated energy: -509.88275473 eV
+2025-05-01 01:05:06,897 [INFO ]  Calculating No.155... Atoms.calc= SinglePointCalculator(energy=-509.43372344970703, forces=...)
+2025-05-01 01:06:27,340 [INFO ]  Calculated energy: -509.50088904999996 eV
+2025-05-01 01:06:27,341 [INFO ]  Calculating No.156... Atoms.calc= SinglePointCalculator(energy=-509.67345428466797, forces=...)
+2025-05-01 01:07:41,751 [INFO ]  Calculated energy: -509.74282859 eV
+2025-05-01 01:07:41,751 [INFO ]  Calculating No.157... Atoms.calc= SinglePointCalculator(energy=-509.4564666748047, forces=...)
+2025-05-01 01:08:54,319 [INFO ]  Calculated energy: -509.46725441 eV
+2025-05-01 01:08:54,319 [INFO ]  Calculating No.158... Atoms.calc= SinglePointCalculator(energy=-509.6628952026367, forces=...)
+2025-05-01 01:10:11,248 [INFO ]  Calculated energy: -509.71487172 eV
+2025-05-01 01:10:11,249 [INFO ]  Calculating No.159... Atoms.calc= SinglePointCalculator(energy=-509.5365219116211, forces=...)
+2025-05-01 01:11:29,301 [INFO ]  Calculated energy: -509.60504063999997 eV
+2025-05-01 01:11:29,302 [INFO ]  Calculating No.160... Atoms.calc= SinglePointCalculator(energy=-509.2146224975586, forces=...)
+2025-05-01 01:12:49,405 [INFO ]  Calculated energy: -509.28689773 eV
+2025-05-01 01:12:49,406 [INFO ]  Calculating No.161... Atoms.calc= SinglePointCalculator(energy=-510.3531951904297, forces=...)
+2025-05-01 01:14:00,930 [INFO ]  Calculated energy: -510.38464887000004 eV
+2025-05-01 01:14:00,930 [INFO ]  Calculating No.162... Atoms.calc= SinglePointCalculator(energy=-510.0926055908203, forces=...)
+2025-05-01 01:15:13,754 [INFO ]  Calculated energy: -510.13395085 eV
+2025-05-01 01:15:13,766 [INFO ]  Calculating No.163... Atoms.calc= SinglePointCalculator(energy=-510.11392974853516, forces=...)
+2025-05-01 01:16:31,022 [INFO ]  Calculated energy: -510.19615132999996 eV
+2025-05-01 01:16:31,023 [INFO ]  Calculating No.164... Atoms.calc= SinglePointCalculator(energy=-509.5155563354492, forces=...)
+2025-05-01 01:17:50,785 [INFO ]  Calculated energy: -509.52621034 eV
+2025-05-01 01:17:50,786 [INFO ]  Calculating No.165... Atoms.calc= SinglePointCalculator(energy=-509.8356170654297, forces=...)
+2025-05-01 01:19:07,532 [INFO ]  Calculated energy: -509.87969271000003 eV
+2025-05-01 01:19:07,532 [INFO ]  Calculating No.166... Atoms.calc= SinglePointCalculator(energy=-509.8423080444336, forces=...)
+2025-05-01 01:20:27,571 [INFO ]  Calculated energy: -509.84881587 eV
+2025-05-01 01:20:27,572 [INFO ]  Calculating No.167... Atoms.calc= SinglePointCalculator(energy=-509.3775405883789, forces=...)
+2025-05-01 01:21:44,829 [INFO ]  Calculated energy: -509.43471401999994 eV
+2025-05-01 01:21:44,829 [INFO ]  Calculating No.168... Atoms.calc= SinglePointCalculator(energy=-509.52771759033203, forces=...)
+2025-05-01 01:22:57,272 [INFO ]  Calculated energy: -509.57907638999995 eV
+2025-05-01 01:22:57,272 [INFO ]  Calculating No.169... Atoms.calc= SinglePointCalculator(energy=-509.61627197265625, forces=...)
+2025-05-01 01:24:12,048 [INFO ]  Calculated energy: -509.67837311 eV
+2025-05-01 01:24:12,049 [INFO ]  Calculating No.170... Atoms.calc= SinglePointCalculator(energy=-509.11080169677734, forces=...)
+2025-05-01 01:25:24,067 [INFO ]  Calculated energy: -509.19996891 eV
+2025-05-01 01:25:24,067 [INFO ]  Calculating No.171... Atoms.calc= SinglePointCalculator(energy=-510.00123596191406, forces=...)
+srun: Step created for StepId=10178999.171
+2025-05-01 01:26:44,223 [INFO ]  Calculated energy: -509.97709452000004 eV
+2025-05-01 01:26:44,224 [INFO ]  Calculating No.172... Atoms.calc= SinglePointCalculator(energy=-509.56920623779297, forces=...)
+2025-05-01 01:28:01,372 [INFO ]  Calculated energy: -509.53376978 eV
+2025-05-01 01:28:01,372 [INFO ]  Calculating No.173... Atoms.calc= SinglePointCalculator(energy=-509.5365982055664, forces=...)
+2025-05-01 01:29:17,910 [INFO ]  Calculated energy: -509.59639412999996 eV
+2025-05-01 01:29:17,910 [INFO ]  Calculating No.174... Atoms.calc= SinglePointCalculator(energy=-509.9739761352539, forces=...)
+2025-05-01 01:30:33,152 [INFO ]  Calculated energy: -510.03817596 eV
+2025-05-01 01:30:33,153 [INFO ]  Calculating No.175... Atoms.calc= SinglePointCalculator(energy=-509.0775909423828, forces=...)
+2025-05-01 01:31:48,093 [INFO ]  Calculated energy: -509.07066072 eV
+2025-05-01 01:31:48,094 [INFO ]  Calculating No.176... Atoms.calc= SinglePointCalculator(energy=-508.60746002197266, forces=...)
+2025-05-01 01:33:02,917 [INFO ]  Calculated energy: -508.6447644 eV
+2025-05-01 01:33:02,918 [INFO ]  Calculating No.177... Atoms.calc= SinglePointCalculator(energy=-509.38853454589844, forces=...)
+2025-05-01 01:34:18,817 [INFO ]  Calculated energy: -509.40076811 eV
+2025-05-01 01:34:18,818 [INFO ]  Calculating No.178... Atoms.calc= SinglePointCalculator(energy=-509.18553161621094, forces=...)
+2025-05-01 01:35:39,830 [INFO ]  Calculated energy: -509.23529936 eV
+2025-05-01 01:35:39,830 [INFO ]  Calculating No.179... Atoms.calc= SinglePointCalculator(energy=-509.5450134277344, forces=...)
+2025-05-01 01:36:56,574 [INFO ]  Calculated energy: -509.52329403 eV
+2025-05-01 01:36:56,575 [INFO ]  Calculating No.180... Atoms.calc= SinglePointCalculator(energy=-509.5158233642578, forces=...)
+2025-05-01 01:38:09,456 [INFO ]  Calculated energy: -509.53947165 eV
+2025-05-01 01:38:09,456 [INFO ]  Calculating No.181... Atoms.calc= SinglePointCalculator(energy=-509.81361389160156, forces=...)
+2025-05-01 01:39:24,723 [INFO ]  Calculated energy: -509.76118352 eV
+2025-05-01 01:39:24,723 [INFO ]  Calculating No.182... Atoms.calc= SinglePointCalculator(energy=-509.9163589477539, forces=...)
+2025-05-01 01:40:36,840 [INFO ]  Calculated energy: -509.9286643 eV
+2025-05-01 01:40:36,841 [INFO ]  Calculating No.183... Atoms.calc= SinglePointCalculator(energy=-509.71256256103516, forces=...)
+2025-05-01 01:41:53,420 [INFO ]  Calculated energy: -509.71311312999995 eV
+2025-05-01 01:41:53,421 [INFO ]  Calculating No.184... Atoms.calc= SinglePointCalculator(energy=-509.97899627685547, forces=...)
+2025-05-01 01:43:10,784 [INFO ]  Calculated energy: -509.98689808 eV
+2025-05-01 01:43:10,785 [INFO ]  Calculating No.185... Atoms.calc= SinglePointCalculator(energy=-509.82032012939453, forces=...)
+2025-05-01 01:44:23,246 [INFO ]  Calculated energy: -509.83012911000003 eV
+2025-05-01 01:44:23,247 [INFO ]  Calculating No.186... Atoms.calc= SinglePointCalculator(energy=-510.1045379638672, forces=...)
+2025-05-01 01:45:35,624 [INFO ]  Calculated energy: -510.12288449 eV
+2025-05-01 01:45:35,625 [INFO ]  Calculating No.187... Atoms.calc= SinglePointCalculator(energy=-508.78173065185547, forces=...)
+2025-05-01 01:46:50,690 [INFO ]  Calculated energy: -508.76874675 eV
+2025-05-01 01:46:50,690 [INFO ]  Calculating No.188... Atoms.calc= SinglePointCalculator(energy=-509.66886138916016, forces=...)
+2025-05-01 01:48:07,069 [INFO ]  Calculated energy: -509.69031105000005 eV
+2025-05-01 01:48:07,070 [INFO ]  Calculating No.189... Atoms.calc= SinglePointCalculator(energy=-509.52295684814453, forces=...)
+2025-05-01 01:49:22,091 [INFO ]  Calculated energy: -509.57080445 eV
+2025-05-01 01:49:22,092 [INFO ]  Calculating No.190... Atoms.calc= SinglePointCalculator(energy=-509.77366638183594, forces=...)
+2025-05-01 01:50:37,410 [INFO ]  Calculated energy: -509.77055144 eV
+2025-05-01 01:50:37,410 [INFO ]  Calculating No.191... Atoms.calc= SinglePointCalculator(energy=-510.4013366699219, forces=...)
+2025-05-01 01:51:50,292 [INFO ]  Calculated energy: -510.44532024 eV
+2025-05-01 01:51:50,293 [INFO ]  Calculating No.192... Atoms.calc= SinglePointCalculator(energy=-510.16246795654297, forces=...)
+2025-05-01 01:53:07,648 [INFO ]  Calculated energy: -510.17967111999997 eV
+2025-05-01 01:53:07,648 [INFO ]  Calculating No.193... Atoms.calc= SinglePointCalculator(energy=-510.2333526611328, forces=...)
+2025-05-01 01:54:20,306 [INFO ]  Calculated energy: -510.28496884000003 eV
+2025-05-01 01:54:20,307 [INFO ]  Calculating No.194... Atoms.calc= SinglePointCalculator(energy=-510.0642547607422, forces=...)
+2025-05-01 01:55:37,268 [INFO ]  Calculated energy: -510.09227983999995 eV
+2025-05-01 01:55:37,269 [INFO ]  Calculating No.195... Atoms.calc= SinglePointCalculator(energy=-510.21817779541016, forces=...)
+2025-05-01 01:56:54,204 [INFO ]  Calculated energy: -510.22794283999997 eV
+2025-05-01 01:56:54,204 [INFO ]  Calculating No.196... Atoms.calc= SinglePointCalculator(energy=-509.4456787109375, forces=...)
+2025-05-01 01:58:20,411 [INFO ]  Calculated energy: -509.46722825 eV
+2025-05-01 01:58:20,412 [INFO ]  Calculating No.197... Atoms.calc= SinglePointCalculator(energy=-510.1254425048828, forces=...)
+2025-05-01 01:59:36,384 [INFO ]  Calculated energy: -510.17026146 eV
+2025-05-01 01:59:36,384 [INFO ]  Calculating No.198... Atoms.calc= SinglePointCalculator(energy=-510.28514099121094, forces=...)
+2025-05-01 02:01:12,901 [INFO ]  Calculated energy: -510.33101138 eV
+2025-05-01 02:01:12,902 [INFO ]  Calculating No.199... Atoms.calc= SinglePointCalculator(energy=-509.61116790771484, forces=...)
+2025-05-01 02:02:33,978 [INFO ]  Calculated energy: -509.67407251000003 eV
+2025-05-01 02:02:33,979 [INFO ]  Calculating No.200... Atoms.calc= SinglePointCalculator(energy=-509.99945068359375, forces=...)
+2025-05-01 02:03:49,938 [INFO ]  Calculated energy: -510.03518452 eV
+2025-05-01 02:03:49,939 [INFO ]  Calculating No.201... Atoms.calc= SinglePointCalculator(energy=-509.4115982055664, forces=...)
+2025-05-01 02:05:02,088 [INFO ]  Calculated energy: -509.41827623999995 eV
+2025-05-01 02:05:02,089 [INFO ]  Calculating No.202... Atoms.calc= SinglePointCalculator(energy=-510.1408004760742, forces=...)
+2025-05-01 02:06:22,305 [INFO ]  Calculated energy: -510.1855585 eV
+2025-05-01 02:06:22,306 [INFO ]  Calculating No.203... Atoms.calc= SinglePointCalculator(energy=-509.73319244384766, forces=...)
+2025-05-01 02:07:46,911 [INFO ]  Calculated energy: -509.74673147000004 eV
+2025-05-01 02:07:46,912 [INFO ]  Calculating No.204... Atoms.calc= SinglePointCalculator(energy=-509.76344299316406, forces=...)
+2025-05-01 02:09:13,142 [INFO ]  Calculated energy: -509.82292691000004 eV
+2025-05-01 02:09:13,174 [INFO ]  Calculating No.205... Atoms.calc= SinglePointCalculator(energy=-509.88297271728516, forces=...)
+2025-05-01 02:10:30,714 [INFO ]  Calculated energy: -509.91696029 eV
+2025-05-01 02:10:30,715 [INFO ]  Calculating No.206... Atoms.calc= SinglePointCalculator(energy=-510.0748596191406, forces=...)
+2025-05-01 02:11:48,790 [INFO ]  Calculated energy: -510.12277336999995 eV
+2025-05-01 02:11:48,790 [INFO ]  Calculating No.207... Atoms.calc= SinglePointCalculator(energy=-509.55855560302734, forces=...)
+2025-05-01 02:13:04,230 [INFO ]  Calculated energy: -509.59336498 eV
+2025-05-01 02:13:04,230 [INFO ]  Calculating No.208... Atoms.calc= SinglePointCalculator(energy=-509.56646728515625, forces=...)
+2025-05-01 02:14:18,361 [INFO ]  Calculated energy: -509.59478034 eV
+2025-05-01 02:14:18,362 [INFO ]  Calculating No.209... Atoms.calc= SinglePointCalculator(energy=-509.8122329711914, forces=...)
+2025-05-01 02:15:29,883 [INFO ]  Calculated energy: -509.84763755 eV
+2025-05-01 02:15:29,884 [INFO ]  Calculating No.210... Atoms.calc= SinglePointCalculator(energy=-509.3203887939453, forces=...)
+2025-05-01 02:16:48,436 [INFO ]  Calculated energy: -509.31252765 eV
+2025-05-01 02:16:48,436 [INFO ]  Calculating No.211... Atoms.calc= SinglePointCalculator(energy=-509.94010162353516, forces=...)
+2025-05-01 02:18:08,527 [INFO ]  Calculated energy: -509.95915195 eV
+2025-05-01 02:18:08,528 [INFO ]  Calculating No.212... Atoms.calc= SinglePointCalculator(energy=-509.90098571777344, forces=...)
+2025-05-01 02:19:24,463 [INFO ]  Calculated energy: -509.91591704 eV
+2025-05-01 02:19:24,464 [INFO ]  Calculating No.213... Atoms.calc= SinglePointCalculator(energy=-509.5125503540039, forces=...)
+2025-05-01 02:20:36,852 [INFO ]  Calculated energy: -509.58108388999995 eV
+2025-05-01 02:20:36,853 [INFO ]  Calculating No.214... Atoms.calc= SinglePointCalculator(energy=-509.44705963134766, forces=...)
+2025-05-01 02:21:54,440 [INFO ]  Calculated energy: -509.52722738 eV
+2025-05-01 02:21:54,441 [INFO ]  Calculating No.215... Atoms.calc= SinglePointCalculator(energy=-509.2354431152344, forces=...)
+2025-05-01 02:23:08,219 [INFO ]  Calculated energy: -509.23837098 eV
+2025-05-01 02:23:08,220 [INFO ]  Calculating No.216... Atoms.calc= SinglePointCalculator(energy=-509.0356750488281, forces=...)
+2025-05-01 02:24:22,567 [INFO ]  Calculated energy: -509.02517627 eV
+2025-05-01 02:24:22,567 [INFO ]  Calculating No.217... Atoms.calc= SinglePointCalculator(energy=-509.2406997680664, forces=...)
+2025-05-01 02:25:49,217 [INFO ]  Calculated energy: -509.25757093 eV
+2025-05-01 02:25:49,241 [INFO ]  Calculating No.218... Atoms.calc= SinglePointCalculator(energy=-509.4269332885742, forces=...)
+2025-05-01 02:27:02,049 [INFO ]  Calculated energy: -509.47540205 eV
+2025-05-01 02:27:02,050 [INFO ]  Calculating No.219... Atoms.calc= SinglePointCalculator(energy=-509.41314697265625, forces=...)
+2025-05-01 02:28:20,404 [INFO ]  Calculated energy: -509.40144614 eV
+2025-05-01 02:28:20,405 [INFO ]  Calculating No.220... Atoms.calc= SinglePointCalculator(energy=-509.8910675048828, forces=...)
+2025-05-01 02:29:33,631 [INFO ]  Calculated energy: -509.90180818 eV
+2025-05-01 02:29:33,632 [INFO ]  Calculating No.221... Atoms.calc= SinglePointCalculator(energy=-509.6534118652344, forces=...)
+2025-05-01 02:30:55,574 [INFO ]  Calculated energy: -509.6482419 eV
+2025-05-01 02:30:55,574 [INFO ]  Calculating No.222... Atoms.calc= SinglePointCalculator(energy=-509.4358215332031, forces=...)
+2025-05-01 02:32:10,985 [INFO ]  Calculated energy: -509.45543944 eV
+2025-05-01 02:32:10,986 [INFO ]  Calculating No.223... Atoms.calc= SinglePointCalculator(energy=-509.8903503417969, forces=...)
+2025-05-01 02:33:26,583 [INFO ]  Calculated energy: -509.89742668 eV
+2025-05-01 02:33:26,584 [INFO ]  Calculating No.224... Atoms.calc= SinglePointCalculator(energy=-509.3927307128906, forces=...)
+2025-05-01 02:34:38,575 [INFO ]  Calculated energy: -509.43380776000004 eV
+2025-05-01 02:34:38,576 [INFO ]  Calculating No.225... Atoms.calc= SinglePointCalculator(energy=-509.9701385498047, forces=...)
+2025-05-01 02:35:50,902 [INFO ]  Calculated energy: -510.01818161 eV
+2025-05-01 02:35:50,902 [INFO ]  Calculating No.226... Atoms.calc= SinglePointCalculator(energy=-509.0707015991211, forces=...)
+2025-05-01 02:37:10,068 [INFO ]  Calculated energy: -509.10200271 eV
+2025-05-01 02:37:10,069 [INFO ]  Calculating No.227... Atoms.calc= SinglePointCalculator(energy=-510.18800354003906, forces=...)
+2025-05-01 02:38:24,416 [INFO ]  Calculated energy: -510.19831765000004 eV
+2025-05-01 02:38:24,416 [INFO ]  Calculating No.228... Atoms.calc= SinglePointCalculator(energy=-509.9256286621094, forces=...)
+2025-05-01 02:39:41,699 [INFO ]  Calculated energy: -509.93961333 eV
+2025-05-01 02:39:41,700 [INFO ]  Calculating No.229... Atoms.calc= SinglePointCalculator(energy=-508.9647979736328, forces=...)
+2025-05-01 02:40:56,389 [INFO ]  Calculated energy: -509.00023931 eV
+2025-05-01 02:40:56,390 [INFO ]  Calculating No.230... Atoms.calc= SinglePointCalculator(energy=-509.4908142089844, forces=...)
+2025-05-01 02:42:12,270 [INFO ]  Calculated energy: -509.4761039 eV
+2025-05-01 02:42:12,271 [INFO ]  Calculating No.231... Atoms.calc= SinglePointCalculator(energy=-509.9558334350586, forces=...)
+2025-05-01 02:43:37,621 [INFO ]  Calculated energy: -509.98455218000004 eV
+2025-05-01 02:43:37,621 [INFO ]  Calculating No.232... Atoms.calc= SinglePointCalculator(energy=-509.44434356689453, forces=...)
+2025-05-01 02:44:54,429 [INFO ]  Calculated energy: -509.49213179 eV
+2025-05-01 02:44:54,429 [INFO ]  Calculating No.233... Atoms.calc= SinglePointCalculator(energy=-510.1120376586914, forces=...)
+2025-05-01 02:46:11,300 [INFO ]  Calculated energy: -510.13273217000005 eV
+2025-05-01 02:46:11,301 [INFO ]  Calculating No.234... Atoms.calc= SinglePointCalculator(energy=-509.6371612548828, forces=...)
+2025-05-01 02:47:27,284 [INFO ]  Calculated energy: -509.6455045 eV
+2025-05-01 02:47:27,285 [INFO ]  Calculating No.235... Atoms.calc= SinglePointCalculator(energy=-509.59403228759766, forces=...)
+2025-05-01 02:48:46,905 [INFO ]  Calculated energy: -509.61091644 eV
+2025-05-01 02:48:46,906 [INFO ]  Calculating No.236... Atoms.calc= SinglePointCalculator(energy=-510.09263610839844, forces=...)
+2025-05-01 02:49:58,950 [INFO ]  Calculated energy: -510.15401394 eV
+2025-05-01 02:49:58,951 [INFO ]  Calculating No.237... Atoms.calc= SinglePointCalculator(energy=-510.17279052734375, forces=...)
+2025-05-01 02:51:15,851 [INFO ]  Calculated energy: -510.2117231 eV
+2025-05-01 02:51:15,852 [INFO ]  Calculating No.238... Atoms.calc= SinglePointCalculator(energy=-509.26338958740234, forces=...)
+2025-05-01 02:52:28,126 [INFO ]  Calculated energy: -509.29885899 eV
+2025-05-01 02:52:28,127 [INFO ]  Calculating No.239... Atoms.calc= SinglePointCalculator(energy=-509.61572265625, forces=...)
+2025-05-01 02:53:45,245 [INFO ]  Calculated energy: -509.66898722 eV
+2025-05-01 02:53:45,246 [INFO ]  Calculating No.240... Atoms.calc= SinglePointCalculator(energy=-509.28165435791016, forces=...)
+2025-05-01 02:54:57,300 [INFO ]  Calculated energy: -509.3463967 eV
+2025-05-01 02:54:57,301 [INFO ]  Calculating No.241... Atoms.calc= SinglePointCalculator(energy=-509.43355560302734, forces=...)
+2025-05-01 02:56:14,000 [INFO ]  Calculated energy: -509.43630179 eV
+2025-05-01 02:56:14,001 [INFO ]  Calculating No.242... Atoms.calc= SinglePointCalculator(energy=-510.35794830322266, forces=...)
+2025-05-01 02:57:40,962 [INFO ]  Calculated energy: -510.41412125 eV
+2025-05-01 02:57:40,962 [INFO ]  Calculating No.243... Atoms.calc= SinglePointCalculator(energy=-509.87489318847656, forces=...)
+2025-05-01 02:58:57,367 [INFO ]  Calculated energy: -509.90947855999997 eV
+2025-05-01 02:58:57,367 [INFO ]  Calculating No.244... Atoms.calc= SinglePointCalculator(energy=-509.80802154541016, forces=...)
+2025-05-01 03:00:11,769 [INFO ]  Calculated energy: -509.88143319 eV
+2025-05-01 03:00:11,770 [INFO ]  Calculating No.245... Atoms.calc= SinglePointCalculator(energy=-509.2608108520508, forces=...)
+2025-05-01 03:01:30,863 [INFO ]  Calculated energy: -509.30500856000003 eV
+2025-05-01 03:01:30,864 [INFO ]  Calculating No.246... Atoms.calc= SinglePointCalculator(energy=-509.5644760131836, forces=...)
+2025-05-01 03:02:44,118 [INFO ]  Calculated energy: -509.58850602999996 eV
+2025-05-01 03:02:44,119 [INFO ]  Calculating No.247... Atoms.calc= SinglePointCalculator(energy=-509.4737091064453, forces=...)
+2025-05-01 03:04:00,691 [INFO ]  Calculated energy: -509.53227267000005 eV
+2025-05-01 03:04:00,691 [INFO ]  Calculating No.248... Atoms.calc= SinglePointCalculator(energy=-509.3756408691406, forces=...)
+2025-05-01 03:05:20,236 [INFO ]  Calculated energy: -509.39154981 eV
+2025-05-01 03:05:20,237 [INFO ]  Calculating No.249... Atoms.calc= SinglePointCalculator(energy=-509.6770324707031, forces=...)
+2025-05-01 03:06:54,924 [INFO ]  Calculated energy: -509.67395089 eV
+2025-05-01 03:06:54,925 [INFO ]  Calculating No.250... Atoms.calc= SinglePointCalculator(energy=-509.91104888916016, forces=...)
+2025-05-01 03:08:15,837 [INFO ]  Calculated energy: -509.91702 eV
+2025-05-01 03:08:15,838 [INFO ]  Calculating No.251... Atoms.calc= SinglePointCalculator(energy=-509.61995697021484, forces=...)
+2025-05-01 03:09:31,059 [INFO ]  Calculated energy: -509.66228691 eV
+2025-05-01 03:09:31,060 [INFO ]  Calculating No.252... Atoms.calc= SinglePointCalculator(energy=-509.7306213378906, forces=...)
+2025-05-01 03:10:41,062 [INFO ]  Calculated energy: -509.72588880000006 eV
+2025-05-01 03:10:41,063 [INFO ]  Calculating No.253... Atoms.calc= SinglePointCalculator(energy=-509.2527618408203, forces=...)
+2025-05-01 03:11:55,690 [INFO ]  Calculated energy: -509.24398974 eV
+2025-05-01 03:11:55,691 [INFO ]  Calculating No.254... Atoms.calc= SinglePointCalculator(energy=-509.0196838378906, forces=...)
+2025-05-01 03:13:09,723 [INFO ]  Calculated energy: -509.06217777000006 eV
+2025-05-01 03:13:09,724 [INFO ]  Calculating No.255... Atoms.calc= SinglePointCalculator(energy=-509.5706558227539, forces=...)
+2025-05-01 03:14:38,199 [INFO ]  Calculated energy: -509.54499189 eV
+2025-05-01 03:14:38,242 [INFO ]  Calculating No.256... Atoms.calc= SinglePointCalculator(energy=-509.67797088623047, forces=...)
+2025-05-01 03:15:56,058 [INFO ]  Calculated energy: -509.69435269 eV
+2025-05-01 03:15:56,059 [INFO ]  Calculating No.257... Atoms.calc= SinglePointCalculator(energy=-510.03771209716797, forces=...)
+2025-05-01 03:17:13,931 [INFO ]  Calculated energy: -510.03115159000004 eV
+2025-05-01 03:17:13,932 [INFO ]  Calculating No.258... Atoms.calc= SinglePointCalculator(energy=-510.31837463378906, forces=...)
+2025-05-01 03:18:28,725 [INFO ]  Calculated energy: -510.31391633000004 eV
+2025-05-01 03:18:28,725 [INFO ]  Calculating No.259... Atoms.calc= SinglePointCalculator(energy=-509.98545837402344, forces=...)
+2025-05-01 03:19:45,615 [INFO ]  Calculated energy: -510.05569248 eV
+2025-05-01 03:19:45,616 [INFO ]  Calculating No.260... Atoms.calc= SinglePointCalculator(energy=-510.1916275024414, forces=...)
+2025-05-01 03:21:08,181 [INFO ]  Calculated energy: -510.20208457 eV
+2025-05-01 03:21:08,182 [INFO ]  Calculating No.261... Atoms.calc= SinglePointCalculator(energy=-510.5275421142578, forces=...)
+2025-05-01 03:22:24,406 [INFO ]  Calculated energy: -510.52819671000003 eV
+2025-05-01 03:22:24,407 [INFO ]  Calculating No.262... Atoms.calc= SinglePointCalculator(energy=-510.0328674316406, forces=...)
+2025-05-01 03:23:39,212 [INFO ]  Calculated energy: -510.06716615 eV
+2025-05-01 03:23:39,213 [INFO ]  Calculating No.263... Atoms.calc= SinglePointCalculator(energy=-509.7398681640625, forces=...)
+2025-05-01 03:24:59,749 [INFO ]  Calculated energy: -509.77503281 eV
+2025-05-01 03:24:59,749 [INFO ]  Calculating No.264... Atoms.calc= SinglePointCalculator(energy=-510.30853271484375, forces=...)
+2025-05-01 03:26:16,292 [INFO ]  Calculated energy: -510.35158202 eV
+2025-05-01 03:26:16,293 [INFO ]  Calculating No.265... Atoms.calc= SinglePointCalculator(energy=-509.50880432128906, forces=...)
+2025-05-01 03:27:32,797 [INFO ]  Calculated energy: -509.55422385 eV
+2025-05-01 03:27:32,798 [INFO ]  Calculating No.266... Atoms.calc= SinglePointCalculator(energy=-509.6119918823242, forces=...)
+2025-05-01 03:28:50,986 [INFO ]  Calculated energy: -509.62126330999996 eV
+2025-05-01 03:28:50,987 [INFO ]  Calculating No.267... Atoms.calc= SinglePointCalculator(energy=-509.90980529785156, forces=...)
+2025-05-01 03:30:05,453 [INFO ]  Calculated energy: -509.93670055 eV
+2025-05-01 03:30:05,454 [INFO ]  Calculating No.268... Atoms.calc= SinglePointCalculator(energy=-509.94061279296875, forces=...)
+2025-05-01 03:31:22,304 [INFO ]  Calculated energy: -509.96007843 eV
+2025-05-01 03:31:22,305 [INFO ]  Calculating No.269... Atoms.calc= SinglePointCalculator(energy=-509.6720886230469, forces=...)
+2025-05-01 03:32:38,927 [INFO ]  Calculated energy: -509.71036322000003 eV
+2025-05-01 03:32:38,927 [INFO ]  Calculating No.270... Atoms.calc= SinglePointCalculator(energy=-509.5553665161133, forces=...)
+2025-05-01 03:33:51,144 [INFO ]  Calculated energy: -509.59716069 eV
+2025-05-01 03:33:51,145 [INFO ]  Calculating No.271... Atoms.calc= SinglePointCalculator(energy=-509.0241012573242, forces=...)
+2025-05-01 03:35:05,621 [INFO ]  Calculated energy: -509.09409654999996 eV
+2025-05-01 03:35:05,622 [INFO ]  Calculating No.272... Atoms.calc= SinglePointCalculator(energy=-508.95928955078125, forces=...)
+2025-05-01 03:36:23,487 [INFO ]  Calculated energy: -508.95217637 eV
+2025-05-01 03:36:23,489 [INFO ]  Calculating No.273... Atoms.calc= SinglePointCalculator(energy=-509.80503845214844, forces=...)
+2025-05-01 03:37:40,082 [INFO ]  Calculated energy: -509.80103271999997 eV
+2025-05-01 03:37:40,083 [INFO ]  Calculating No.274... Atoms.calc= SinglePointCalculator(energy=-509.82723236083984, forces=...)
+2025-05-01 03:38:56,945 [INFO ]  Calculated energy: -509.85127261 eV
+2025-05-01 03:38:56,946 [INFO ]  Calculating No.275... Atoms.calc= SinglePointCalculator(energy=-509.0801086425781, forces=...)
+2025-05-01 03:40:09,220 [INFO ]  Calculated energy: -509.08318647 eV
+2025-05-01 03:40:09,221 [INFO ]  Calculating No.276... Atoms.calc= SinglePointCalculator(energy=-509.5533447265625, forces=...)
+2025-05-01 03:41:21,973 [INFO ]  Calculated energy: -509.53707298999996 eV
+2025-05-01 03:41:21,974 [INFO ]  Calculating No.277... Atoms.calc= SinglePointCalculator(energy=-509.6091766357422, forces=...)
+2025-05-01 03:42:39,398 [INFO ]  Calculated energy: -509.68573322000003 eV
+2025-05-01 03:42:39,399 [INFO ]  Calculating No.278... Atoms.calc= SinglePointCalculator(energy=-509.32373046875, forces=...)
+2025-05-01 03:43:55,401 [INFO ]  Calculated energy: -509.36123246 eV
+2025-05-01 03:43:55,401 [INFO ]  Calculating No.279... Atoms.calc= SinglePointCalculator(energy=-509.70362091064453, forces=...)
+2025-05-01 03:45:12,195 [INFO ]  Calculated energy: -509.72816522 eV
+2025-05-01 03:45:12,196 [INFO ]  Calculating No.280... Atoms.calc= SinglePointCalculator(energy=-509.84814453125, forces=...)
+2025-05-01 03:46:27,394 [INFO ]  Calculated energy: -509.88989187 eV
+2025-05-01 03:46:27,394 [INFO ]  Calculating No.281... Atoms.calc= SinglePointCalculator(energy=-509.58489990234375, forces=...)
+2025-05-01 03:47:44,351 [INFO ]  Calculated energy: -509.62526303 eV
+2025-05-01 03:47:44,352 [INFO ]  Calculating No.282... Atoms.calc= SinglePointCalculator(energy=-509.8766174316406, forces=...)
+2025-05-01 03:49:07,726 [INFO ]  Calculated energy: -509.91105258 eV
+2025-05-01 03:49:07,727 [INFO ]  Calculating No.283... Atoms.calc= SinglePointCalculator(energy=-509.0328598022461, forces=...)
+2025-05-01 03:50:24,738 [INFO ]  Calculated energy: -509.08848823999995 eV
+2025-05-01 03:50:24,739 [INFO ]  Calculating No.284... Atoms.calc= SinglePointCalculator(energy=-509.2086181640625, forces=...)
+2025-05-01 03:51:35,166 [INFO ]  Calculated energy: -509.23733295000005 eV
+2025-05-01 03:51:35,167 [INFO ]  Calculating No.285... Atoms.calc= SinglePointCalculator(energy=-510.2013702392578, forces=...)
+2025-05-01 03:52:48,324 [INFO ]  Calculated energy: -510.23375753 eV
+2025-05-01 03:52:48,325 [INFO ]  Calculating No.286... Atoms.calc= SinglePointCalculator(energy=-510.23889923095703, forces=...)
+2025-05-01 03:54:02,937 [INFO ]  Calculated energy: -510.28499092 eV
+2025-05-01 03:54:02,938 [INFO ]  Calculating No.287... Atoms.calc= SinglePointCalculator(energy=-509.9667739868164, forces=...)
+2025-05-01 03:55:20,189 [INFO ]  Calculated energy: -509.95572555 eV
+2025-05-01 03:55:20,190 [INFO ]  Calculating No.288... Atoms.calc= SinglePointCalculator(energy=-509.8185119628906, forces=...)
+2025-05-01 03:56:47,201 [INFO ]  Calculated energy: -509.78080682999996 eV
+2025-05-01 03:56:47,202 [INFO ]  Calculating No.289... Atoms.calc= SinglePointCalculator(energy=-510.26707458496094, forces=...)
+2025-05-01 03:58:02,293 [INFO ]  Calculated energy: -510.31175612000004 eV
+2025-05-01 03:58:02,293 [INFO ]  Calculating No.290... Atoms.calc= SinglePointCalculator(energy=-509.3230514526367, forces=...)
+2025-05-01 03:59:34,651 [INFO ]  Calculated energy: -509.37511192 eV
+2025-05-01 03:59:34,652 [INFO ]  Calculating No.291... Atoms.calc= SinglePointCalculator(energy=-509.12303924560547, forces=...)
+2025-05-01 04:00:58,686 [INFO ]  Calculated energy: -509.20603473 eV
+2025-05-01 04:00:58,687 [INFO ]  Calculating No.292... Atoms.calc= SinglePointCalculator(energy=-508.8291778564453, forces=...)
+2025-05-01 04:02:14,043 [INFO ]  Calculated energy: -508.91265068 eV
+2025-05-01 04:02:14,043 [INFO ]  Calculating No.293... Atoms.calc= SinglePointCalculator(energy=-509.0941696166992, forces=...)
+2025-05-01 04:03:32,672 [INFO ]  Calculated energy: -509.15826569 eV
+2025-05-01 04:03:32,673 [INFO ]  Calculating No.294... Atoms.calc= SinglePointCalculator(energy=-509.7631301879883, forces=...)
+2025-05-01 04:04:45,391 [INFO ]  Calculated energy: -509.81371623 eV
+2025-05-01 04:04:45,392 [INFO ]  Calculating No.295... Atoms.calc= SinglePointCalculator(energy=-509.7258071899414, forces=...)
+2025-05-01 04:05:55,410 [INFO ]  Calculated energy: -509.71280084 eV
+2025-05-01 04:05:55,410 [INFO ]  Calculating No.296... Atoms.calc= SinglePointCalculator(energy=-509.88743591308594, forces=...)
+2025-05-01 04:07:10,004 [INFO ]  Calculated energy: -509.89873622 eV
+2025-05-01 04:07:10,004 [INFO ]  Calculating No.297... Atoms.calc= SinglePointCalculator(energy=-509.8516540527344, forces=...)
+2025-05-01 04:08:26,188 [INFO ]  Calculated energy: -509.89518959000003 eV
+2025-05-01 04:08:26,189 [INFO ]  Calculating No.298... Atoms.calc= SinglePointCalculator(energy=-509.69229888916016, forces=...)
+2025-05-01 04:09:39,848 [INFO ]  Calculated energy: -509.75629606 eV
+2025-05-01 04:09:39,849 [INFO ]  Calculating No.299... Atoms.calc= SinglePointCalculator(energy=-509.1457214355469, forces=...)
+2025-05-01 04:10:56,633 [INFO ]  Calculated energy: -509.16628649 eV
+2025-05-01 04:10:56,634 [INFO ]  Calculating No.300... Atoms.calc= SinglePointCalculator(energy=-509.820556640625, forces=...)
+2025-05-01 04:12:13,959 [INFO ]  Calculated energy: -509.87294163 eV
+2025-05-01 04:12:13,960 [INFO ]  Calculating No.301... Atoms.calc= SinglePointCalculator(energy=-509.5471878051758, forces=...)
+2025-05-01 04:13:31,139 [INFO ]  Calculated energy: -509.56235346 eV
+2025-05-01 04:13:31,140 [INFO ]  Calculating No.302... Atoms.calc= SinglePointCalculator(energy=-509.58644104003906, forces=...)
+2025-05-01 04:14:49,485 [INFO ]  Calculated energy: -509.59042826999996 eV
+2025-05-01 04:14:49,485 [INFO ]  Calculating No.303... Atoms.calc= SinglePointCalculator(energy=-510.0093994140625, forces=...)
+2025-05-01 04:16:02,643 [INFO ]  Calculated energy: -510.0240899500001 eV
+2025-05-01 04:16:02,644 [INFO ]  Calculating No.304... Atoms.calc= SinglePointCalculator(energy=-509.7849578857422, forces=...)
+2025-05-01 04:17:19,239 [INFO ]  Calculated energy: -509.79713897 eV
+2025-05-01 04:17:19,239 [INFO ]  Calculating No.305... Atoms.calc= SinglePointCalculator(energy=-509.501220703125, forces=...)
+2025-05-01 04:18:33,934 [INFO ]  Calculated energy: -509.53590815999996 eV
+2025-05-01 04:18:33,935 [INFO ]  Calculating No.306... Atoms.calc= SinglePointCalculator(energy=-510.3346481323242, forces=...)
+2025-05-01 04:19:51,651 [INFO ]  Calculated energy: -510.33515952 eV
+2025-05-01 04:19:51,685 [INFO ]  Calculating No.307... Atoms.calc= SinglePointCalculator(energy=-510.30208587646484, forces=...)
+2025-05-01 04:21:05,058 [INFO ]  Calculated energy: -510.31618677999995 eV
+2025-05-01 04:21:05,058 [INFO ]  Calculating No.308... Atoms.calc= SinglePointCalculator(energy=-510.3650131225586, forces=...)
+2025-05-01 04:22:23,680 [INFO ]  Calculated energy: -510.37257382 eV
+2025-05-01 04:22:23,681 [INFO ]  Calculating No.309... Atoms.calc= SinglePointCalculator(energy=-509.7173385620117, forces=...)
+2025-05-01 04:23:38,049 [INFO ]  Calculated energy: -509.77627236 eV
+2025-05-01 04:23:38,050 [INFO ]  Calculating No.310... Atoms.calc= SinglePointCalculator(energy=-509.9723129272461, forces=...)
+2025-05-01 04:24:47,426 [INFO ]  Calculated energy: -510.02718294000005 eV
+2025-05-01 04:24:47,427 [INFO ]  Calculating No.311... Atoms.calc= SinglePointCalculator(energy=-510.37564849853516, forces=...)
+2025-05-01 04:26:07,902 [INFO ]  Calculated energy: -510.37960542 eV
+2025-05-01 04:26:07,903 [INFO ]  Calculating No.312... Atoms.calc= SinglePointCalculator(energy=-509.9095001220703, forces=...)
+2025-05-01 04:27:22,142 [INFO ]  Calculated energy: -509.94854051000004 eV
+2025-05-01 04:27:22,142 [INFO ]  Calculating No.313... Atoms.calc= SinglePointCalculator(energy=-510.0383758544922, forces=...)
+2025-05-01 04:28:35,337 [INFO ]  Calculated energy: -510.04443153 eV
+2025-05-01 04:28:35,338 [INFO ]  Calculating No.314... Atoms.calc= SinglePointCalculator(energy=-510.10289764404297, forces=...)
+2025-05-01 04:29:49,476 [INFO ]  Calculated energy: -510.13920175000004 eV
+2025-05-01 04:29:49,476 [INFO ]  Calculating No.315... Atoms.calc= SinglePointCalculator(energy=-510.7088851928711, forces=...)
+2025-05-01 04:31:01,960 [INFO ]  Calculated energy: -510.76041115 eV
+2025-05-01 04:31:01,961 [INFO ]  Calculating No.316... Atoms.calc= SinglePointCalculator(energy=-510.34403228759766, forces=...)
+2025-05-01 04:32:14,329 [INFO ]  Calculated energy: -510.38499383 eV
+2025-05-01 04:32:14,330 [INFO ]  Calculating No.317... Atoms.calc= SinglePointCalculator(energy=-509.83050537109375, forces=...)
+2025-05-01 04:33:33,720 [INFO ]  Calculated energy: -509.85707334 eV
+2025-05-01 04:33:33,721 [INFO ]  Calculating No.318... Atoms.calc= SinglePointCalculator(energy=-510.23705291748047, forces=...)
+2025-05-01 04:34:51,530 [INFO ]  Calculated energy: -510.26933411 eV
+2025-05-01 04:34:51,531 [INFO ]  Calculating No.319... Atoms.calc= SinglePointCalculator(energy=-510.92735290527344, forces=...)
+2025-05-01 04:36:11,938 [INFO ]  Calculated energy: -510.93619938999996 eV
+2025-05-01 04:36:11,938 [INFO ]  Calculating No.320... Atoms.calc= SinglePointCalculator(energy=-510.5446472167969, forces=...)
+2025-05-01 04:37:24,468 [INFO ]  Calculated energy: -510.59894471 eV
+2025-05-01 04:37:24,469 [INFO ]  Calculating No.321... Atoms.calc= SinglePointCalculator(energy=-510.27052307128906, forces=...)
+2025-05-01 04:38:50,247 [INFO ]  Calculated energy: -510.31240057 eV
+2025-05-01 04:38:50,247 [INFO ]  Calculating No.322... Atoms.calc= SinglePointCalculator(energy=-510.4121322631836, forces=...)
+2025-05-01 04:40:02,714 [INFO ]  Calculated energy: -510.45601589 eV
+2025-05-01 04:40:02,715 [INFO ]  Calculating No.323... Atoms.calc= SinglePointCalculator(energy=-509.66382598876953, forces=...)
+2025-05-01 04:41:17,579 [INFO ]  Calculated energy: -509.69343911 eV
+2025-05-01 04:41:17,580 [INFO ]  Calculating No.324... Atoms.calc= SinglePointCalculator(energy=-509.95833587646484, forces=...)
+2025-05-01 04:42:33,853 [INFO ]  Calculated energy: -509.98087869000005 eV
+2025-05-01 04:42:33,853 [INFO ]  Calculating No.325... Atoms.calc= SinglePointCalculator(energy=-509.9119644165039, forces=...)
+2025-05-01 04:43:48,491 [INFO ]  Calculated energy: -509.90449136 eV
+2025-05-01 04:43:48,492 [INFO ]  Calculating No.326... Atoms.calc= SinglePointCalculator(energy=-509.84741973876953, forces=...)
+2025-05-01 04:45:06,301 [INFO ]  Calculated energy: -509.89020851 eV
+2025-05-01 04:45:06,301 [INFO ]  Calculating No.327... Atoms.calc= SinglePointCalculator(energy=-510.3085250854492, forces=...)
+2025-05-01 04:46:24,108 [INFO ]  Calculated energy: -510.30874076 eV
+2025-05-01 04:46:24,109 [INFO ]  Calculating No.328... Atoms.calc= SinglePointCalculator(energy=-509.9881896972656, forces=...)
+2025-05-01 04:47:41,785 [INFO ]  Calculated energy: -510.01470134000004 eV
+2025-05-01 04:47:41,787 [INFO ]  Calculating No.329... Atoms.calc= SinglePointCalculator(energy=-510.05638885498047, forces=...)
+2025-05-01 04:48:58,881 [INFO ]  Calculated energy: -510.09212659 eV
+2025-05-01 04:48:58,882 [INFO ]  Calculating No.330... Atoms.calc= SinglePointCalculator(energy=-510.35791778564453, forces=...)
+2025-05-01 04:50:17,371 [INFO ]  Calculated energy: -510.34285329999994 eV
+2025-05-01 04:50:17,372 [INFO ]  Calculating No.331... Atoms.calc= SinglePointCalculator(energy=-509.99549865722656, forces=...)
+2025-05-01 04:51:31,035 [INFO ]  Calculated energy: -510.04517901 eV
+2025-05-01 04:51:31,035 [INFO ]  Calculating No.332... Atoms.calc= SinglePointCalculator(energy=-509.56500244140625, forces=...)
+2025-05-01 04:52:46,331 [INFO ]  Calculated energy: -509.63101165000006 eV
+2025-05-01 04:52:46,332 [INFO ]  Calculating No.333... Atoms.calc= SinglePointCalculator(energy=-509.22743225097656, forces=...)
+2025-05-01 04:54:02,854 [INFO ]  Calculated energy: -509.23005107 eV
+2025-05-01 04:54:02,855 [INFO ]  Calculating No.334... Atoms.calc= SinglePointCalculator(energy=-510.17691802978516, forces=...)
+2025-05-01 04:55:18,450 [INFO ]  Calculated energy: -510.1659567 eV
+2025-05-01 04:55:18,451 [INFO ]  Calculating No.335... Atoms.calc= SinglePointCalculator(energy=-509.63309478759766, forces=...)
+2025-05-01 04:56:52,258 [INFO ]  Calculated energy: -509.66139711000005 eV
+2025-05-01 04:56:52,259 [INFO ]  Calculating No.336... Atoms.calc= SinglePointCalculator(energy=-509.790283203125, forces=...)
+2025-05-01 04:58:05,059 [INFO ]  Calculated energy: -509.84283332 eV
+2025-05-01 04:58:05,060 [INFO ]  Calculating No.337... Atoms.calc= SinglePointCalculator(energy=-509.8043441772461, forces=...)
+2025-05-01 04:59:17,897 [INFO ]  Calculated energy: -509.85856553 eV
+2025-05-01 04:59:17,898 [INFO ]  Calculating No.338... Atoms.calc= SinglePointCalculator(energy=-510.0957336425781, forces=...)
+2025-05-01 05:00:34,351 [INFO ]  Calculated energy: -510.15008196 eV
+2025-05-01 05:00:34,351 [INFO ]  Calculating No.339... Atoms.calc= SinglePointCalculator(energy=-509.54552459716797, forces=...)
+2025-05-01 05:01:47,514 [INFO ]  Calculated energy: -509.57145252000004 eV
+2025-05-01 05:01:47,514 [INFO ]  Calculating No.340... Atoms.calc= SinglePointCalculator(energy=-509.5482940673828, forces=...)
+2025-05-01 05:03:05,044 [INFO ]  Calculated energy: -509.55651517 eV
+2025-05-01 05:03:05,045 [INFO ]  Calculating No.341... Atoms.calc= SinglePointCalculator(energy=-509.7994918823242, forces=...)
+2025-05-01 05:04:19,503 [INFO ]  Calculated energy: -509.8536433 eV
+2025-05-01 05:04:19,504 [INFO ]  Calculating No.342... Atoms.calc= SinglePointCalculator(energy=-509.82730865478516, forces=...)
+2025-05-01 05:05:36,216 [INFO ]  Calculated energy: -509.85324175 eV
+2025-05-01 05:05:36,216 [INFO ]  Calculating No.343... Atoms.calc= SinglePointCalculator(energy=-509.5215072631836, forces=...)
+2025-05-01 05:06:53,558 [INFO ]  Calculated energy: -509.52806133999997 eV
+2025-05-01 05:06:53,559 [INFO ]  Calculating No.344... Atoms.calc= SinglePointCalculator(energy=-509.6615447998047, forces=...)
+2025-05-01 05:08:06,156 [INFO ]  Calculated energy: -509.70294551999996 eV
+2025-05-01 05:08:06,156 [INFO ]  Calculating No.345... Atoms.calc= SinglePointCalculator(energy=-509.6546936035156, forces=...)
+2025-05-01 05:09:21,172 [INFO ]  Calculated energy: -509.68015449 eV
+2025-05-01 05:09:21,173 [INFO ]  Calculating No.346... Atoms.calc= SinglePointCalculator(energy=-509.55010986328125, forces=...)
+2025-05-01 05:10:40,669 [INFO ]  Calculated energy: -509.5987564 eV
+2025-05-01 05:10:40,670 [INFO ]  Calculating No.347... Atoms.calc= SinglePointCalculator(energy=-509.8916702270508, forces=...)
+2025-05-01 05:11:55,637 [INFO ]  Calculated energy: -509.93030232 eV
+2025-05-01 05:11:55,638 [INFO ]  Calculating No.348... Atoms.calc= SinglePointCalculator(energy=-509.59461212158203, forces=...)
+2025-05-01 05:13:07,725 [INFO ]  Calculated energy: -509.62189247 eV
+2025-05-01 05:13:07,726 [INFO ]  Calculating No.349... Atoms.calc= SinglePointCalculator(energy=-509.6068649291992, forces=...)
+2025-05-01 05:14:23,418 [INFO ]  Calculated energy: -509.61533444 eV
+2025-05-01 05:14:23,419 [INFO ]  Calculating No.350... Atoms.calc= SinglePointCalculator(energy=-509.7676315307617, forces=...)
+2025-05-01 05:15:39,168 [INFO ]  Calculated energy: -509.76083918 eV
+2025-05-01 05:15:39,169 [INFO ]  Calculating No.351... Atoms.calc= SinglePointCalculator(energy=-509.8280029296875, forces=...)
+2025-05-01 05:16:55,061 [INFO ]  Calculated energy: -509.83748769 eV
+2025-05-01 05:16:55,062 [INFO ]  Calculating No.352... Atoms.calc= SinglePointCalculator(energy=-510.3972702026367, forces=...)
+2025-05-01 05:18:12,254 [INFO ]  Calculated energy: -510.39161164 eV
+2025-05-01 05:18:12,255 [INFO ]  Calculating No.353... Atoms.calc= SinglePointCalculator(energy=-509.88085174560547, forces=...)
+2025-05-01 05:19:28,909 [INFO ]  Calculated energy: -509.89981034 eV
+2025-05-01 05:19:28,910 [INFO ]  Calculating No.354... Atoms.calc= SinglePointCalculator(energy=-509.654052734375, forces=...)
+2025-05-01 05:21:02,186 [INFO ]  Calculated energy: -509.64385265 eV
+2025-05-01 05:21:02,187 [INFO ]  Calculating No.355... Atoms.calc= SinglePointCalculator(energy=-509.7604064941406, forces=...)
+2025-05-01 05:22:19,552 [INFO ]  Calculated energy: -509.75228089999996 eV
+2025-05-01 05:22:19,553 [INFO ]  Calculating No.356... Atoms.calc= SinglePointCalculator(energy=-509.07230377197266, forces=...)
+2025-05-01 05:23:34,484 [INFO ]  Calculated energy: -509.11772922 eV
+2025-05-01 05:23:34,485 [INFO ]  Calculating No.357... Atoms.calc= SinglePointCalculator(energy=-509.7869873046875, forces=...)
+2025-05-01 05:24:51,677 [INFO ]  Calculated energy: -509.78043651 eV
+2025-05-01 05:24:51,678 [INFO ]  Calculating No.358... Atoms.calc= SinglePointCalculator(energy=-509.80165100097656, forces=...)
+2025-05-01 05:26:08,369 [INFO ]  Calculated energy: -509.80542209 eV
+2025-05-01 05:26:08,411 [INFO ]  Calculating No.359... Atoms.calc= SinglePointCalculator(energy=-509.45748138427734, forces=...)
+2025-05-01 05:27:21,017 [INFO ]  Calculated energy: -509.44060998 eV
+2025-05-01 05:27:21,018 [INFO ]  Calculating No.360... Atoms.calc= SinglePointCalculator(energy=-509.87542724609375, forces=...)
+2025-05-01 05:28:39,555 [INFO ]  Calculated energy: -509.89015105000004 eV
+2025-05-01 05:28:39,556 [INFO ]  Calculating No.361... Atoms.calc= SinglePointCalculator(energy=-509.14064025878906, forces=...)
+2025-05-01 05:29:56,430 [INFO ]  Calculated energy: -509.19435553 eV
+2025-05-01 05:29:56,431 [INFO ]  Calculating No.362... Atoms.calc= SinglePointCalculator(energy=-509.1963195800781, forces=...)
+2025-05-01 05:31:13,425 [INFO ]  Calculated energy: -509.24045695 eV
+2025-05-01 05:31:13,426 [INFO ]  Calculating No.363... Atoms.calc= SinglePointCalculator(energy=-509.2038879394531, forces=...)
+2025-05-01 05:32:26,645 [INFO ]  Calculated energy: -509.21471103 eV
+2025-05-01 05:32:26,646 [INFO ]  Calculating No.364... Atoms.calc= SinglePointCalculator(energy=-509.621826171875, forces=...)
+2025-05-01 05:33:41,022 [INFO ]  Calculated energy: -509.61528039999996 eV
+2025-05-01 05:33:41,023 [INFO ]  Calculating No.365... Atoms.calc= SinglePointCalculator(energy=-509.6353988647461, forces=...)
+2025-05-01 05:34:53,254 [INFO ]  Calculated energy: -509.65384197 eV
+2025-05-01 05:34:53,255 [INFO ]  Calculating No.366... Atoms.calc= SinglePointCalculator(energy=-509.02674865722656, forces=...)
+2025-05-01 05:36:06,231 [INFO ]  Calculated energy: -509.04552053 eV
+2025-05-01 05:36:06,231 [INFO ]  Calculating No.367... Atoms.calc= SinglePointCalculator(energy=-510.00191497802734, forces=...)
+2025-05-01 05:37:20,798 [INFO ]  Calculated energy: -510.00033556 eV
+2025-05-01 05:37:20,799 [INFO ]  Calculating No.368... Atoms.calc= SinglePointCalculator(energy=-509.4610824584961, forces=...)
+2025-05-01 05:38:32,963 [INFO ]  Calculated energy: -509.46979756999997 eV
+2025-05-01 05:38:32,964 [INFO ]  Calculating No.369... Atoms.calc= SinglePointCalculator(energy=-509.44017791748047, forces=...)
+2025-05-01 05:39:49,732 [INFO ]  Calculated energy: -509.44435748 eV
+2025-05-01 05:39:49,733 [INFO ]  Calculating No.370... Atoms.calc= SinglePointCalculator(energy=-509.74388885498047, forces=...)
+2025-05-01 05:41:06,932 [INFO ]  Calculated energy: -509.78617206 eV
+2025-05-01 05:41:06,933 [INFO ]  Calculating No.371... Atoms.calc= SinglePointCalculator(energy=-510.09285736083984, forces=...)
+2025-05-01 05:42:23,796 [INFO ]  Calculated energy: -510.14590896 eV
+2025-05-01 05:42:23,797 [INFO ]  Calculating No.372... Atoms.calc= SinglePointCalculator(energy=-509.6798095703125, forces=...)
+2025-05-01 05:43:40,982 [INFO ]  Calculated energy: -509.69547444 eV
+2025-05-01 05:43:40,983 [INFO ]  Calculating No.373... Atoms.calc= SinglePointCalculator(energy=-509.9587860107422, forces=...)
+2025-05-01 05:44:58,179 [INFO ]  Calculated energy: -509.99898314 eV
+2025-05-01 05:44:58,180 [INFO ]  Calculating No.374... Atoms.calc= SinglePointCalculator(energy=-510.1147994995117, forces=...)
+2025-05-01 05:46:14,942 [INFO ]  Calculated energy: -510.1420846 eV
+2025-05-01 05:46:14,943 [INFO ]  Calculating No.375... Atoms.calc= SinglePointCalculator(energy=-509.67864990234375, forces=...)
+2025-05-01 05:47:29,906 [INFO ]  Calculated energy: -509.65032962 eV
+2025-05-01 05:47:29,907 [INFO ]  Calculating No.376... Atoms.calc= SinglePointCalculator(energy=-510.0015106201172, forces=...)
+2025-05-01 05:48:42,462 [INFO ]  Calculated energy: -510.04627894000004 eV
+2025-05-01 05:48:42,463 [INFO ]  Calculating No.377... Atoms.calc= SinglePointCalculator(energy=-509.518310546875, forces=...)
+2025-05-01 05:49:55,042 [INFO ]  Calculated energy: -509.54165568 eV
+2025-05-01 05:49:55,043 [INFO ]  Calculating No.378... Atoms.calc= SinglePointCalculator(energy=-509.32090759277344, forces=...)
+2025-05-01 05:51:11,843 [INFO ]  Calculated energy: -509.35959491000006 eV
+2025-05-01 05:51:11,843 [INFO ]  Calculating No.379... Atoms.calc= SinglePointCalculator(energy=-509.0159912109375, forces=...)
+2025-05-01 05:52:27,174 [INFO ]  Calculated energy: -509.02787868 eV
+2025-05-01 05:52:27,175 [INFO ]  Calculating No.380... Atoms.calc= SinglePointCalculator(energy=-509.8712921142578, forces=...)
+2025-05-01 05:53:42,359 [INFO ]  Calculated energy: -509.91521001 eV
+2025-05-01 05:53:42,360 [INFO ]  Calculating No.381... Atoms.calc= SinglePointCalculator(energy=-509.8163146972656, forces=...)
+2025-05-01 05:54:59,393 [INFO ]  Calculated energy: -509.84183196 eV
+2025-05-01 05:54:59,394 [INFO ]  Calculating No.382... Atoms.calc= SinglePointCalculator(energy=-510.33802795410156, forces=...)
+2025-05-01 05:56:16,475 [INFO ]  Calculated energy: -510.35766871 eV
+2025-05-01 05:56:16,476 [INFO ]  Calculating No.383... Atoms.calc= SinglePointCalculator(energy=-509.7729263305664, forces=...)
+2025-05-01 05:57:31,807 [INFO ]  Calculated energy: -509.8145296 eV
+2025-05-01 05:57:31,810 [INFO ]  Calculating No.384... Atoms.calc= SinglePointCalculator(energy=-510.03143310546875, forces=...)
+2025-05-01 05:58:48,844 [INFO ]  Calculated energy: -510.04692808 eV
+2025-05-01 05:58:48,844 [INFO ]  Calculating No.385... Atoms.calc= SinglePointCalculator(energy=-510.20372772216797, forces=...)
+2025-05-01 06:00:02,807 [INFO ]  Calculated energy: -510.24331049000006 eV
+2025-05-01 06:00:02,807 [INFO ]  Calculating No.386... Atoms.calc= SinglePointCalculator(energy=-509.8614959716797, forces=...)
+2025-05-01 06:01:27,970 [INFO ]  Calculated energy: -509.87918020999996 eV
+2025-05-01 06:01:27,970 [INFO ]  Calculating No.387... Atoms.calc= SinglePointCalculator(energy=-509.7261734008789, forces=...)
+2025-05-01 06:02:42,951 [INFO ]  Calculated energy: -509.73100393 eV
+2025-05-01 06:02:42,952 [INFO ]  Calculating No.388... Atoms.calc= SinglePointCalculator(energy=-510.0337448120117, forces=...)
+2025-05-01 06:03:57,993 [INFO ]  Calculated energy: -510.05143741 eV
+2025-05-01 06:03:57,993 [INFO ]  Calculating No.389... Atoms.calc= SinglePointCalculator(energy=-508.9455795288086, forces=...)
+2025-05-01 06:05:14,614 [INFO ]  Calculated energy: -508.91857344 eV
+2025-05-01 06:05:14,615 [INFO ]  Calculating No.390... Atoms.calc= SinglePointCalculator(energy=-509.9948272705078, forces=...)
+2025-05-01 06:06:34,951 [INFO ]  Calculated energy: -510.03355853 eV
+2025-05-01 06:06:34,952 [INFO ]  Calculating No.391... Atoms.calc= SinglePointCalculator(energy=-510.1045837402344, forces=...)
+2025-05-01 06:07:54,770 [INFO ]  Calculated energy: -510.15447795 eV
+2025-05-01 06:07:54,771 [INFO ]  Calculating No.392... Atoms.calc= SinglePointCalculator(energy=-510.1230697631836, forces=...)
+2025-05-01 06:09:15,042 [INFO ]  Calculated energy: -510.16814876 eV
+2025-05-01 06:09:15,043 [INFO ]  Calculating No.393... Atoms.calc= SinglePointCalculator(energy=-509.53070068359375, forces=...)
+2025-05-01 06:10:27,389 [INFO ]  Calculated energy: -509.5488633599999 eV
+2025-05-01 06:10:27,390 [INFO ]  Calculating No.394... Atoms.calc= SinglePointCalculator(energy=-509.16519927978516, forces=...)
+2025-05-01 06:11:47,491 [INFO ]  Calculated energy: -509.16645637 eV
+2025-05-01 06:11:47,492 [INFO ]  Calculating No.395... Atoms.calc= SinglePointCalculator(energy=-509.59403228759766, forces=...)
+2025-05-01 06:13:02,575 [INFO ]  Calculated energy: -509.56536176000003 eV
+2025-05-01 06:13:02,576 [INFO ]  Calculating No.396... Atoms.calc= SinglePointCalculator(energy=-509.8245315551758, forces=...)
+2025-05-01 06:14:19,219 [INFO ]  Calculated energy: -509.80175066 eV
+2025-05-01 06:14:19,220 [INFO ]  Calculating No.397... Atoms.calc= SinglePointCalculator(energy=-509.28931427001953, forces=...)
+2025-05-01 06:15:34,438 [INFO ]  Calculated energy: -509.290882 eV
+2025-05-01 06:15:34,439 [INFO ]  Calculating No.398... Atoms.calc= SinglePointCalculator(energy=-508.9728317260742, forces=...)
+srun: Step created for StepId=10178999.398
+2025-05-01 06:16:55,666 [INFO ]  Calculated energy: -509.00314092 eV
+2025-05-01 06:16:55,667 [INFO ]  Calculating No.399... Atoms.calc= SinglePointCalculator(energy=-509.6652297973633, forces=...)
+2025-05-01 06:18:16,586 [INFO ]  Calculated energy: -509.73091852 eV
+2025-05-01 06:18:16,587 [INFO ]  Calculating No.400... Atoms.calc= SinglePointCalculator(energy=-509.2423782348633, forces=...)
+2025-05-01 06:19:33,300 [INFO ]  Calculated energy: -509.26910941 eV
+2025-05-01 06:19:33,300 [INFO ]  Calculating No.401... Atoms.calc= SinglePointCalculator(energy=-508.6745147705078, forces=...)
+2025-05-01 06:20:50,057 [INFO ]  Calculated energy: -508.65996042999996 eV
+2025-05-01 06:20:50,058 [INFO ]  Calculating No.402... Atoms.calc= SinglePointCalculator(energy=-509.44554901123047, forces=...)
+2025-05-01 06:22:02,609 [INFO ]  Calculated energy: -509.49782488 eV
+2025-05-01 06:22:02,610 [INFO ]  Calculating No.403... Atoms.calc= SinglePointCalculator(energy=-509.84928131103516, forces=...)
+2025-05-01 06:23:19,556 [INFO ]  Calculated energy: -509.90334539 eV
+2025-05-01 06:23:19,557 [INFO ]  Calculating No.404... Atoms.calc= SinglePointCalculator(energy=-509.73240661621094, forces=...)
+2025-05-01 06:24:43,656 [INFO ]  Calculated energy: -509.78638875999997 eV
+2025-05-01 06:24:43,657 [INFO ]  Calculating No.405... Atoms.calc= SinglePointCalculator(energy=-509.86500549316406, forces=...)
+2025-05-01 06:26:02,605 [INFO ]  Calculated energy: -509.89149442 eV
+2025-05-01 06:26:02,606 [INFO ]  Calculating No.406... Atoms.calc= SinglePointCalculator(energy=-509.76617431640625, forces=...)
+2025-05-01 06:27:15,135 [INFO ]  Calculated energy: -509.78384467 eV
+2025-05-01 06:27:15,136 [INFO ]  Calculating No.407... Atoms.calc= SinglePointCalculator(energy=-509.525390625, forces=...)
+2025-05-01 06:28:27,772 [INFO ]  Calculated energy: -509.55651227 eV
+2025-05-01 06:28:27,773 [INFO ]  Calculating No.408... Atoms.calc= SinglePointCalculator(energy=-509.4463424682617, forces=...)
+2025-05-01 06:29:42,728 [INFO ]  Calculated energy: -509.52399724 eV
+2025-05-01 06:29:42,729 [INFO ]  Calculating No.409... Atoms.calc= SinglePointCalculator(energy=-509.27042388916016, forces=...)
+2025-05-01 06:30:57,852 [INFO ]  Calculated energy: -509.34685522999996 eV
+2025-05-01 06:30:57,853 [INFO ]  Calculating No.410... Atoms.calc= SinglePointCalculator(energy=-509.9890594482422, forces=...)
+2025-05-01 06:32:15,467 [INFO ]  Calculated energy: -510.06020718 eV
+2025-05-01 06:32:15,529 [INFO ]  Calculating No.411... Atoms.calc= SinglePointCalculator(energy=-509.7763366699219, forces=...)
+2025-05-01 06:33:32,423 [INFO ]  Calculated energy: -509.79048108 eV
+2025-05-01 06:33:32,424 [INFO ]  Calculating No.412... Atoms.calc= SinglePointCalculator(energy=-509.9207534790039, forces=...)
+2025-05-01 06:34:50,562 [INFO ]  Calculated energy: -509.96969943999994 eV
+2025-05-01 06:34:50,563 [INFO ]  Calculating No.413... Atoms.calc= SinglePointCalculator(energy=-509.71539306640625, forces=...)
+2025-05-01 06:36:06,259 [INFO ]  Calculated energy: -509.76017505000004 eV
+2025-05-01 06:36:06,259 [INFO ]  Calculating No.414... Atoms.calc= SinglePointCalculator(energy=-510.2470703125, forces=...)
+2025-05-01 06:37:22,010 [INFO ]  Calculated energy: -510.27314638 eV
+2025-05-01 06:37:22,011 [INFO ]  Calculating No.415... Atoms.calc= SinglePointCalculator(energy=-509.89735412597656, forces=...)
+2025-05-01 06:38:31,320 [INFO ]  Calculated energy: -509.9770923 eV
+2025-05-01 06:38:31,321 [INFO ]  Calculating No.416... Atoms.calc= SinglePointCalculator(energy=-509.7686080932617, forces=...)
+2025-05-01 06:39:50,965 [INFO ]  Calculated energy: -509.77984019 eV
+2025-05-01 06:39:50,965 [INFO ]  Calculating No.417... Atoms.calc= SinglePointCalculator(energy=-510.58228302001953, forces=...)
+2025-05-01 06:41:03,446 [INFO ]  Calculated energy: -510.61072446000003 eV
+2025-05-01 06:41:03,447 [INFO ]  Calculating No.418... Atoms.calc= SinglePointCalculator(energy=-510.3064880371094, forces=...)
+2025-05-01 06:42:21,261 [INFO ]  Calculated energy: -510.29690284 eV
+2025-05-01 06:42:21,261 [INFO ]  Calculating No.419... Atoms.calc= SinglePointCalculator(energy=-509.68450927734375, forces=...)
+2025-05-01 06:43:35,490 [INFO ]  Calculated energy: -509.70761157 eV
+2025-05-01 06:43:35,491 [INFO ]  Calculating No.420... Atoms.calc= SinglePointCalculator(energy=-509.64710235595703, forces=...)
+2025-05-01 06:44:52,058 [INFO ]  Calculated energy: -509.67319314 eV
+2025-05-01 06:44:52,059 [INFO ]  Calculating No.421... Atoms.calc= SinglePointCalculator(energy=-509.88785552978516, forces=...)
+2025-05-01 06:46:06,307 [INFO ]  Calculated energy: -509.93171459999996 eV
+2025-05-01 06:46:06,308 [INFO ]  Calculating No.422... Atoms.calc= SinglePointCalculator(energy=-509.84444427490234, forces=...)
+2025-05-01 06:47:22,386 [INFO ]  Calculated energy: -509.86954734 eV
+2025-05-01 06:47:22,386 [INFO ]  Calculating No.423... Atoms.calc= SinglePointCalculator(energy=-509.70326232910156, forces=...)
+2025-05-01 06:48:35,012 [INFO ]  Calculated energy: -509.71383140999995 eV
+2025-05-01 06:48:35,013 [INFO ]  Calculating No.424... Atoms.calc= SinglePointCalculator(energy=-510.0904541015625, forces=...)
+2025-05-01 06:49:51,649 [INFO ]  Calculated energy: -510.13488158 eV
+2025-05-01 06:49:51,650 [INFO ]  Calculating No.425... Atoms.calc= SinglePointCalculator(energy=-511.1875915527344, forces=...)
+2025-05-01 06:51:12,141 [INFO ]  Calculated energy: -511.23379216999996 eV
+2025-05-01 06:51:12,142 [INFO ]  Calculating No.426... Atoms.calc= SinglePointCalculator(energy=-510.2456512451172, forces=...)
+2025-05-01 06:52:29,406 [INFO ]  Calculated energy: -510.27411897999997 eV
+2025-05-01 06:52:29,407 [INFO ]  Calculating No.427... Atoms.calc= SinglePointCalculator(energy=-509.7476272583008, forces=...)
+2025-05-01 06:53:44,471 [INFO ]  Calculated energy: -509.80840365 eV
+2025-05-01 06:53:44,472 [INFO ]  Calculating No.428... Atoms.calc= SinglePointCalculator(energy=-509.53997802734375, forces=...)
+2025-05-01 06:54:57,383 [INFO ]  Calculated energy: -509.54831496 eV
+2025-05-01 06:54:57,384 [INFO ]  Calculating No.429... Atoms.calc= SinglePointCalculator(energy=-509.03905487060547, forces=...)
+2025-05-01 06:56:14,994 [INFO ]  Calculated energy: -509.09505669000004 eV
+2025-05-01 06:56:14,995 [INFO ]  Calculating No.430... Atoms.calc= SinglePointCalculator(energy=-509.88673400878906, forces=...)
+2025-05-01 06:57:31,580 [INFO ]  Calculated energy: -509.91662462 eV
+2025-05-01 06:57:31,581 [INFO ]  Calculating No.431... Atoms.calc= SinglePointCalculator(energy=-509.71106719970703, forces=...)
+2025-05-01 06:58:49,540 [INFO ]  Calculated energy: -509.67656896 eV
+2025-05-01 06:58:49,540 [INFO ]  Calculating No.432... Atoms.calc= SinglePointCalculator(energy=-509.2459487915039, forces=...)
+2025-05-01 07:00:13,749 [INFO ]  Calculated energy: -509.24529999 eV
+2025-05-01 07:00:13,750 [INFO ]  Calculating No.433... Atoms.calc= SinglePointCalculator(energy=-509.22351837158203, forces=...)
+2025-05-01 07:01:29,122 [INFO ]  Calculated energy: -509.27829297 eV
+2025-05-01 07:01:29,123 [INFO ]  Calculating No.434... Atoms.calc= SinglePointCalculator(energy=-508.8590774536133, forces=...)
+2025-05-01 07:02:45,230 [INFO ]  Calculated energy: -508.85904577 eV
+2025-05-01 07:02:45,230 [INFO ]  Calculating No.435... Atoms.calc= SinglePointCalculator(energy=-509.4571533203125, forces=...)
+2025-05-01 07:04:10,969 [INFO ]  Calculated energy: -509.4604913 eV
+2025-05-01 07:04:10,970 [INFO ]  Calculating No.436... Atoms.calc= SinglePointCalculator(energy=-509.69952392578125, forces=...)
+2025-05-01 07:05:27,845 [INFO ]  Calculated energy: -509.70823563999994 eV
+2025-05-01 07:05:27,845 [INFO ]  Calculating No.437... Atoms.calc= SinglePointCalculator(energy=-509.9584045410156, forces=...)
+srun: Step created for StepId=10178999.437
+2025-05-01 07:06:50,842 [INFO ]  Calculated energy: -509.9439062000001 eV
+2025-05-01 07:06:50,844 [INFO ]  Calculating No.438... Atoms.calc= SinglePointCalculator(energy=-510.14798736572266, forces=...)
+2025-05-01 07:08:06,211 [INFO ]  Calculated energy: -510.14892511 eV
+2025-05-01 07:08:06,211 [INFO ]  Calculating No.439... Atoms.calc= SinglePointCalculator(energy=-509.7268295288086, forces=...)
+2025-05-01 07:09:19,246 [INFO ]  Calculated energy: -509.71889905999996 eV
+2025-05-01 07:09:19,247 [INFO ]  Calculating No.440... Atoms.calc= SinglePointCalculator(energy=-508.4011917114258, forces=...)
+2025-05-01 07:10:45,758 [INFO ]  Calculated energy: -508.42950408999997 eV
+2025-05-01 07:10:45,759 [INFO ]  Calculating No.441... Atoms.calc= SinglePointCalculator(energy=-509.3163528442383, forces=...)
+2025-05-01 07:12:01,574 [INFO ]  Calculated energy: -509.37020421 eV
+2025-05-01 07:12:01,574 [INFO ]  Calculating No.442... Atoms.calc= SinglePointCalculator(energy=-509.2655944824219, forces=...)
+2025-05-01 07:13:14,181 [INFO ]  Calculated energy: -509.24276432 eV
+2025-05-01 07:13:14,182 [INFO ]  Calculating No.443... Atoms.calc= SinglePointCalculator(energy=-509.33934020996094, forces=...)
+2025-05-01 07:14:26,284 [INFO ]  Calculated energy: -509.36384460999994 eV
+2025-05-01 07:14:26,285 [INFO ]  Calculating No.444... Atoms.calc= SinglePointCalculator(energy=-509.2950668334961, forces=...)
+2025-05-01 07:15:38,338 [INFO ]  Calculated energy: -509.29015200000003 eV
+2025-05-01 07:15:38,338 [INFO ]  Calculating No.445... Atoms.calc= SinglePointCalculator(energy=-509.75865173339844, forces=...)
+2025-05-01 07:16:55,100 [INFO ]  Calculated energy: -509.78193299 eV
+2025-05-01 07:16:55,100 [INFO ]  Calculating No.446... Atoms.calc= SinglePointCalculator(energy=-509.2584991455078, forces=...)
+2025-05-01 07:18:11,480 [INFO ]  Calculated energy: -509.26931822 eV
+2025-05-01 07:18:11,480 [INFO ]  Calculating No.447... Atoms.calc= SinglePointCalculator(energy=-508.7377700805664, forces=...)
+2025-05-01 07:19:26,517 [INFO ]  Calculated energy: -508.7675985 eV
+2025-05-01 07:19:26,518 [INFO ]  Calculating No.448... Atoms.calc= SinglePointCalculator(energy=-509.33768463134766, forces=...)
+2025-05-01 07:20:42,108 [INFO ]  Calculated energy: -509.39240558999995 eV
+2025-05-01 07:20:42,108 [INFO ]  Calculating No.449... Atoms.calc= SinglePointCalculator(energy=-509.59149169921875, forces=...)
+2025-05-01 07:22:02,488 [INFO ]  Calculated energy: -509.61234204 eV
+2025-05-01 07:22:02,489 [INFO ]  Calculating No.450... Atoms.calc= SinglePointCalculator(energy=-509.2143096923828, forces=...)
+2025-05-01 07:23:18,989 [INFO ]  Calculated energy: -509.22910758 eV
+2025-05-01 07:23:18,989 [INFO ]  Calculating No.451... Atoms.calc= SinglePointCalculator(energy=-509.4427032470703, forces=...)
+2025-05-01 07:24:35,627 [INFO ]  Calculated energy: -509.41547153 eV
+2025-05-01 07:24:35,627 [INFO ]  Calculating No.452... Atoms.calc= SinglePointCalculator(energy=-509.1053771972656, forces=...)
+2025-05-01 07:25:50,204 [INFO ]  Calculated energy: -509.06276495 eV
+2025-05-01 07:25:50,205 [INFO ]  Calculating No.453... Atoms.calc= SinglePointCalculator(energy=-509.04478454589844, forces=...)
+2025-05-01 07:27:04,347 [INFO ]  Calculated energy: -509.10364584 eV
+2025-05-01 07:27:04,347 [INFO ]  Calculating No.454... Atoms.calc= SinglePointCalculator(energy=-509.03035736083984, forces=...)
+2025-05-01 07:28:17,178 [INFO ]  Calculated energy: -509.02493275999996 eV
+2025-05-01 07:28:17,178 [INFO ]  Calculating No.455... Atoms.calc= SinglePointCalculator(energy=-509.2716369628906, forces=...)
+2025-05-01 07:29:32,484 [INFO ]  Calculated energy: -509.32635784 eV
+2025-05-01 07:29:32,484 [INFO ]  Calculating No.456... Atoms.calc= SinglePointCalculator(energy=-509.72379302978516, forces=...)
+2025-05-01 07:30:49,968 [INFO ]  Calculated energy: -509.71176861000004 eV
+2025-05-01 07:30:49,969 [INFO ]  Calculating No.457... Atoms.calc= SinglePointCalculator(energy=-509.70758056640625, forces=...)
+2025-05-01 07:32:06,846 [INFO ]  Calculated energy: -509.69474190999995 eV
+2025-05-01 07:32:06,846 [INFO ]  Calculating No.458... Atoms.calc= SinglePointCalculator(energy=-509.1314239501953, forces=...)
+2025-05-01 07:33:19,763 [INFO ]  Calculated energy: -509.18239992 eV
+2025-05-01 07:33:19,764 [INFO ]  Calculating No.459... Atoms.calc= SinglePointCalculator(energy=-508.9734802246094, forces=...)
+2025-05-01 07:34:34,989 [INFO ]  Calculated energy: -508.97686981 eV
+2025-05-01 07:34:34,990 [INFO ]  Calculating No.460... Atoms.calc= SinglePointCalculator(energy=-509.93190002441406, forces=...)
+2025-05-01 07:35:47,567 [INFO ]  Calculated energy: -509.93920634 eV
+2025-05-01 07:35:47,568 [INFO ]  Calculating No.461... Atoms.calc= SinglePointCalculator(energy=-509.4078826904297, forces=...)
+2025-05-01 07:37:04,789 [INFO ]  Calculated energy: -509.42810503 eV
+2025-05-01 07:37:04,790 [INFO ]  Calculating No.462... Atoms.calc= SinglePointCalculator(energy=-509.6326141357422, forces=...)
+2025-05-01 07:38:22,589 [INFO ]  Calculated energy: -509.64485216 eV
+2025-05-01 07:38:22,645 [INFO ]  Calculating No.463... Atoms.calc= SinglePointCalculator(energy=-510.1893844604492, forces=...)
+2025-05-01 07:39:35,140 [INFO ]  Calculated energy: -510.20132262 eV
+2025-05-01 07:39:35,141 [INFO ]  Calculating No.464... Atoms.calc= SinglePointCalculator(energy=-509.6129913330078, forces=...)
+2025-05-01 07:40:48,702 [INFO ]  Calculated energy: -509.59992388999996 eV
+2025-05-01 07:40:48,702 [INFO ]  Calculating No.465... Atoms.calc= SinglePointCalculator(energy=-509.3927307128906, forces=...)
+2025-05-01 07:42:06,117 [INFO ]  Calculated energy: -509.38024155000005 eV
+2025-05-01 07:42:06,118 [INFO ]  Calculating No.466... Atoms.calc= SinglePointCalculator(energy=-509.9470901489258, forces=...)
+2025-05-01 07:43:30,660 [INFO ]  Calculated energy: -509.97282126 eV
+2025-05-01 07:43:30,661 [INFO ]  Calculating No.467... Atoms.calc= SinglePointCalculator(energy=-509.294189453125, forces=...)
+2025-05-01 07:44:45,900 [INFO ]  Calculated energy: -509.31355828 eV
+2025-05-01 07:44:45,901 [INFO ]  Calculating No.468... Atoms.calc= SinglePointCalculator(energy=-509.4962158203125, forces=...)
+2025-05-01 07:46:09,976 [INFO ]  Calculated energy: -509.51468324999996 eV
+2025-05-01 07:46:09,977 [INFO ]  Calculating No.469... Atoms.calc= SinglePointCalculator(energy=-508.91258239746094, forces=...)
+2025-05-01 07:47:32,927 [INFO ]  Calculated energy: -508.92789487 eV
+2025-05-01 07:47:32,927 [INFO ]  Calculating No.470... Atoms.calc= SinglePointCalculator(energy=-509.48656463623047, forces=...)
+2025-05-01 07:48:50,741 [INFO ]  Calculated energy: -509.44690961 eV
+2025-05-01 07:48:50,742 [INFO ]  Calculating No.471... Atoms.calc= SinglePointCalculator(energy=-509.40972900390625, forces=...)
+2025-05-01 07:50:10,768 [INFO ]  Calculated energy: -509.40305327 eV
+2025-05-01 07:50:10,769 [INFO ]  Calculating No.472... Atoms.calc= SinglePointCalculator(energy=-509.1151351928711, forces=...)
+2025-05-01 07:51:30,692 [INFO ]  Calculated energy: -509.11934756 eV
+2025-05-01 07:51:30,693 [INFO ]  Calculating No.473... Atoms.calc= SinglePointCalculator(energy=-509.3150939941406, forces=...)
+2025-05-01 07:52:43,208 [INFO ]  Calculated energy: -509.35535009999995 eV
+2025-05-01 07:52:43,208 [INFO ]  Calculating No.474... Atoms.calc= SinglePointCalculator(energy=-509.12300872802734, forces=...)
+2025-05-01 07:53:55,712 [INFO ]  Calculated energy: -509.16590001000003 eV
+2025-05-01 07:53:55,713 [INFO ]  Calculating No.475... Atoms.calc= SinglePointCalculator(energy=-509.20521545410156, forces=...)
+2025-05-01 07:55:12,772 [INFO ]  Calculated energy: -509.23632953 eV
+2025-05-01 07:55:12,773 [INFO ]  Calculating No.476... Atoms.calc= SinglePointCalculator(energy=-509.15447998046875, forces=...)
+2025-05-01 07:56:27,613 [INFO ]  Calculated energy: -509.18222270999996 eV
+2025-05-01 07:56:27,614 [INFO ]  Calculating No.477... Atoms.calc= SinglePointCalculator(energy=-508.8345260620117, forces=...)
+2025-05-01 07:57:42,913 [INFO ]  Calculated energy: -508.89138406 eV
+2025-05-01 07:57:42,914 [INFO ]  Calculating No.478... Atoms.calc= SinglePointCalculator(energy=-509.5860290527344, forces=...)
+2025-05-01 07:58:57,451 [INFO ]  Calculated energy: -509.62333492 eV
+2025-05-01 07:58:57,451 [INFO ]  Calculating No.479... Atoms.calc= SinglePointCalculator(energy=-509.2994613647461, forces=...)
+2025-05-01 08:00:20,188 [INFO ]  Calculated energy: -509.31764299 eV
+2025-05-01 08:00:20,189 [INFO ]  Calculating No.480... Atoms.calc= SinglePointCalculator(energy=-509.76902770996094, forces=...)
+2025-05-01 08:01:35,111 [INFO ]  Calculated energy: -509.81956456 eV
+2025-05-01 08:01:35,112 [INFO ]  Calculating No.481... Atoms.calc= SinglePointCalculator(energy=-509.8277587890625, forces=...)
+2025-05-01 08:02:52,104 [INFO ]  Calculated energy: -509.85931202 eV
+2025-05-01 08:02:52,105 [INFO ]  Calculating No.482... Atoms.calc= SinglePointCalculator(energy=-509.5125274658203, forces=...)
+2025-05-01 08:04:06,772 [INFO ]  Calculated energy: -509.52044008 eV
+2025-05-01 08:04:06,773 [INFO ]  Calculating No.483... Atoms.calc= SinglePointCalculator(energy=-509.4605712890625, forces=...)
+2025-05-01 08:05:17,075 [INFO ]  Calculated energy: -509.48278858 eV
+2025-05-01 08:05:17,076 [INFO ]  Calculating No.484... Atoms.calc= SinglePointCalculator(energy=-509.51185607910156, forces=...)
+2025-05-01 08:06:34,193 [INFO ]  Calculated energy: -509.55992309999993 eV
+2025-05-01 08:06:34,194 [INFO ]  Calculating No.485... Atoms.calc= SinglePointCalculator(energy=-509.5325393676758, forces=...)
+2025-05-01 08:07:48,898 [INFO ]  Calculated energy: -509.57380984 eV
+2025-05-01 08:07:48,899 [INFO ]  Calculating No.486... Atoms.calc= SinglePointCalculator(energy=-509.8734817504883, forces=...)
+2025-05-01 08:09:06,419 [INFO ]  Calculated energy: -509.86281577 eV
+2025-05-01 08:09:06,420 [INFO ]  Calculating No.487... Atoms.calc= SinglePointCalculator(energy=-509.4109802246094, forces=...)
+2025-05-01 08:10:23,293 [INFO ]  Calculated energy: -509.42579586000005 eV
+2025-05-01 08:10:23,293 [INFO ]  Calculating No.488... Atoms.calc= SinglePointCalculator(energy=-509.47766876220703, forces=...)
+2025-05-01 08:11:40,104 [INFO ]  Calculated energy: -509.54876833000003 eV
+2025-05-01 08:11:40,105 [INFO ]  Calculating No.489... Atoms.calc= SinglePointCalculator(energy=-509.69762420654297, forces=...)
+2025-05-01 08:12:57,184 [INFO ]  Calculated energy: -509.71492391999993 eV
+2025-05-01 08:12:57,185 [INFO ]  Calculating No.490... Atoms.calc= SinglePointCalculator(energy=-509.85182189941406, forces=...)
+2025-05-01 08:14:14,318 [INFO ]  Calculated energy: -509.88401385000003 eV
+2025-05-01 08:14:14,318 [INFO ]  Calculating No.491... Atoms.calc= SinglePointCalculator(energy=-510.4972229003906, forces=...)
+2025-05-01 08:15:26,661 [INFO ]  Calculated energy: -510.55851394 eV
+2025-05-01 08:15:26,662 [INFO ]  Calculating No.492... Atoms.calc= SinglePointCalculator(energy=-509.62615966796875, forces=...)
+srun: Step created for StepId=10178999.492
+2025-05-01 08:17:07,482 [INFO ]  Calculated energy: -509.72011755 eV
+2025-05-01 08:17:07,485 [INFO ]  Calculating No.493... Atoms.calc= SinglePointCalculator(energy=-509.6769714355469, forces=...)
+2025-05-01 08:18:27,472 [INFO ]  Calculated energy: -509.7194434 eV
+2025-05-01 08:18:27,473 [INFO ]  Calculating No.494... Atoms.calc= SinglePointCalculator(energy=-509.1757049560547, forces=...)
+2025-05-01 08:19:45,547 [INFO ]  Calculated energy: -509.23040669000005 eV
+2025-05-01 08:19:45,548 [INFO ]  Calculating No.495... Atoms.calc= SinglePointCalculator(energy=-509.8655319213867, forces=...)
+2025-05-01 08:20:58,057 [INFO ]  Calculated energy: -509.93126822000005 eV
+2025-05-01 08:20:58,058 [INFO ]  Calculating No.496... Atoms.calc= SinglePointCalculator(energy=-509.9051513671875, forces=...)
+2025-05-01 08:22:16,009 [INFO ]  Calculated energy: -509.91052573999997 eV
+2025-05-01 08:22:16,009 [INFO ]  Calculating No.497... Atoms.calc= SinglePointCalculator(energy=-509.41703033447266, forces=...)
+2025-05-01 08:23:33,555 [INFO ]  Calculated energy: -509.43016217 eV
+2025-05-01 08:23:33,556 [INFO ]  Calculating No.498... Atoms.calc= SinglePointCalculator(energy=-509.01353454589844, forces=...)
+2025-05-01 08:24:49,373 [INFO ]  Calculated energy: -509.02423472 eV
+2025-05-01 08:24:49,373 [INFO ]  Calculating No.499... Atoms.calc= SinglePointCalculator(energy=-509.5819091796875, forces=...)
+2025-05-01 08:26:06,358 [INFO ]  Calculated energy: -509.61093410000007 eV
+2025-05-01 08:26:06,359 [INFO ]  Calculating No.500... Atoms.calc= SinglePointCalculator(energy=-509.86106872558594, forces=...)
+2025-05-01 08:27:23,798 [INFO ]  Calculated energy: -509.88163766 eV
